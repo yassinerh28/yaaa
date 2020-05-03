@@ -129,6 +129,7 @@ var s;
 function o_first_player() {
 s = o;
 for (i = 0; i < symbols.length; i++) {
+symbols[i].setAttribute("onmouseout", "");
 symbols[i].setAttribute("onmouseover", "");
 symbols[i].setAttribute("onclick", "");
 }
@@ -145,6 +146,7 @@ button.style.opacity = "1";
 function x_first_player() {
 s = x;
 for (i = 0; i < symbols.length; i++) {
+symbols[i].setAttribute("onmouseout", "");
 symbols[i].setAttribute("onmouseover", "");
 symbols[i].setAttribute("onclick", "");
 }
@@ -162,6 +164,7 @@ var play_number = 0;
 function play(element) {
 element.innerHTML = s;
 element.setAttribute("onclick", "");
+element.setAttribute("onmouseout", "");
 element.setAttribute("onmouseover", "");
 play_number++;
 check_win();

@@ -128,9 +128,11 @@ element.style.opacity = "0.5";
 var s;
 function o_first_player() {
 s = o;
+for (i = 0; i < symbols.length; i++) {
+symbols[i].setAttribute("onmouseover", "");
+symbols[i].setAttribute("onclick", "");
+}
 symbols[1].style.opacity = "0.5";
-symbols[0].setAttribute("onclick", "");
-symbols[1].setAttribute("onclick", "");
 for (i = 0; i < cells.length; i++) {
 cells[i].setAttribute("onclick", "play(this)");
 cells[i].setAttribute("onmouseout", "this.style.backgroundColor = '#777'");
@@ -142,9 +144,11 @@ button.style.opacity = "1";
 
 function x_first_player() {
 s = x;
+for (i = 0; i < symbols.length; i++) {
+symbols[i].setAttribute("onmouseover", "");
+symbols[i].setAttribute("onclick", "");
+}
 symbols[0].style.opacity = "0.5";
-symbols[0].setAttribute("onclick", "");
-symbols[1].setAttribute("onclick", "");
 for (i = 0; i < cells.length; i++) {
 cells[i].setAttribute("onclick", "play(this)");
 cells[i].setAttribute("onmouseout", "this.style.backgroundColor = '#777'");
@@ -158,6 +162,7 @@ var play_number = 0;
 function play(element) {
 element.innerHTML = s;
 element.setAttribute("onclick", "");
+element.setAttribute("onmouseover", "");
 play_number++;
 check_win();
 if (winner == false && play_number < 9) {

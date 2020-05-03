@@ -115,7 +115,9 @@ symbols[1].innerHTML = x;
 function start(element) {
 for (i = 0; i < symbols.length; i++) {
 symbols[i].style.opacity = "1";
-symbols[i].style.backgroundColor = "#ffd";
+symbols[i].style.backgroundColor = "#ddf";
+symbols[i].setAttribute("onmouseout", "this.style.backgroundColor = '#ddf'");
+symbols[i].setAttribute("onmouseover", "this.style.backgroundColor = '#ccd'");
 }
 symbols[0].setAttribute("onclick", "o_first_player()");
 symbols[1].setAttribute("onclick", "x_first_player()");

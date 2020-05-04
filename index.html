@@ -4,6 +4,9 @@
 <title>TIC TAC TOE</title>
 </head>
 <style>
+body {
+margin: 0;
+}
 #interface {
 display: flex;
 width: 100vw;
@@ -112,7 +115,7 @@ var button = document.getElementById("button");
 var x = '<div class="rectangle" style="height: 50%; width: 10%; background-color: #000; transform: translatex(50%) rotatez(45deg) ;"></div><div class="rectangle" style="height: 50%; width: 10%; background-color: #000; transform: translatex(-50%) rotatez(-45deg);"></div>';
 var cell_style = window.getComputedStyle(cells[0]);
 var w = cell_style.getPropertyValue('width');
-var o = '<div class="circle" onresize="alert(555)" style="box-sizing: border-box; height: 50%; width: 50%; border-radius: 50%; border: calc(' + w + '*0.1) ' + 'solid #000;"' + '></div>';
+var o = '<div class="circle" style="box-sizing: border-box; height: 50%; width: 50%; border-radius: 50%; border: calc(' + w + '*0.1) ' + 'solid #000;"' + '></div>';
 /*
 var circle = document.getElementsByClassName("circle");
 for (i = 0; i < circle.length; i++) {

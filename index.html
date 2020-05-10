@@ -1,306 +1,92 @@
-<!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>TIC TAC TOE</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>WORK1 | CLOCK</title>
+	<style>
+		body {
+			margin: 0;
+		}
+		#title {
+			position: fixed;
+			left: 20px;
+			top: 20px;
+			color: #666;
+			font-family: roboto;
+			letter-spacing: 5px;
+			font-size: 20px;
+			font-weight: 400;
+			text-transform: uppercase;
+		}
+		#title > span {
+			color: #bbb;
+		}
+		#container {
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+			justify-content: center;
+			height: 100%;
+			width: 100%;
+			background-color: #ddd;
+		}
+		#line1-container {
+			height: 310px;
+			width: 10px;
+			position: relative;
+			left: 5px;
+
+			animation-name: line1-animation;
+			animation-duration: 1s;
+			animation-fill-mode: forwards;
+			animation-iteration-count: infinite;
+			animation-timing-function: linear;
+		}
+		#line2-container {
+			height: 210px;
+			width: 10px;
+			position: relative;
+			left: -5px;
+			
+			animation-name: line2-animation;
+			animation-duration: 12s;
+			animation-fill-mode: forwards;
+			animation-iteration-count: infinite;
+			animation-timing-function: linear;
+		}
+		#line1 {
+			height: 160px;
+			width: 10px;
+			background-color: #bbb;
+			border-bottom-left-radius: 5px;
+			border-bottom-right-radius: 5px;
+		}
+		#line2 {
+			height: 110px;
+			width: 10px;
+			background-color: #666;
+			border-bottom-left-radius: 5px;
+			border-bottom-right-radius: 5px;
+		}
+		@keyframes line1-animation {
+			0% {transform: rotateZ(0deg);}
+			100% {transform: rotateZ(360deg);}
+		}
+		@keyframes line2-animation {
+			0% {transform: rotateZ(0deg);}
+			100% {transform: rotateZ(360deg);}
+		}
+	</style>
 </head>
-<style>
-body {
-margin: 0;
-}
-#interface {
-display: flex;
-width: 100vw;
-}
-#board {
-display: flex;
-flex-wrap: wrap;
-height: 33.33vw;
-width: 33.33vw;
-background-color: #ccc;
-}
-.cell {
-display: flex;
-flex-direction: row;
-align-items: center;
-justify-content: center;
-box-sizing: border-box;
-flex-basis: calc(100%/3);
-height: calc(100%/3);
-background-color: #777;
-border: 1px solid #555;
-opacity: 0.5;
-transition: background-color 0.2s, opacity 0.2s;
-}
-#symbols {
-display: flex;
-flex-direction: column;
-align-items: center;
-justify-content: space-around;
-box-sizing: border-box;
-height: 33.33vw;
-width: 33.33vw;
-border: 1px solid #ccc;
-}
-.symbol {
-display: flex;
-flex-direction: row;
-align-items: center;
-justify-content: center;
-box-sizing: border-box;
-flex-basis: calc(100%/3);
-flex-grow: 0;
-width: calc(100%/3);
-background-color: #ddf;
-border: 1px solid #ccc;
-opacity: 0.5;
-transition: background-color 0.2s, opacity 0.2s;
-}
-#control {
-display: flex;
-flex-direction: column;
-align-items: center;
-justify-content: space-around;
-box-sizing: border-box;
-height: 33.33vw;
-width: 33.33vw;
-border: 1px solid #ccc;
-}
-#button {
-display: flex;
-flex-direction: row;
-align-items: center;
-justify-content: center;
-box-sizing: border-box;
-flex-basis: calc(100%/3);
-flex-grow: 0;
-width: calc(100%/3);
-background-color: #ddf;
-border: 1px solid #ccc;
-transition: background-color 0.2s, opacity 0.2s;
-}
-#button:hover {
-background-color: #ccd;
-}
-</style>
 <body>
-<div id="interface">
-<div id="board">
-<div class="cell"></div>
-<div class="cell"></div>
-<div class="cell"></div>
-<div class="cell"></div>
-<div class="cell"></div>
-<div class="cell"></div>
-<div class="cell"></div>
-<div class="cell"></div>
-<div class="cell"></div>
-</div>
-<div id="symbols">
-<div class="symbol"></div>
-<div class="symbol"></div>
-</div>
-<div id="control">
-<div id="button" onclick="start(this)">
-<svg viewbox="0 0 100 100" height="50%" width="50%">
-<polygon points="0,0 100,50 0,100" fill="#000"/>
-</svg>
-</div>
-</div>
-</div>
-<script>
-var cells = document.getElementsByClassName("cell");
-var symbols = document.getElementsByClassName("symbol");
-var button = document.getElementById("button");
-
-var x = '<div class="rectangle" style="height: 50%; width: 10%; background-color: #000; transform: translatex(50%) rotatez(45deg) ;"></div><div class="rectangle" style="height: 50%; width: 10%; background-color: #000; transform: translatex(-50%) rotatez(-45deg);"></div>';
-var cell_style = window.getComputedStyle(cells[0]);
-var w = cell_style.getPropertyValue('width');
-var o = '<div class="circle" style="box-sizing: border-box; height: 50%; width: 50%; border-radius: 50%; border: calc(' + w + '*0.1) ' + 'solid #000;"' + '></div>';
-/*
-var circle = document.getElementsByClassName("circle");
-for (i = 0; i < circle.length; i++) {
-circle
-}*/
-
-symbols[0].innerHTML = o;
-symbols[1].innerHTML = x;
-
-function start(element) {
-for (i = 0; i < symbols.length; i++) {
-symbols[i].style.opacity = "1";
-symbols[i].style.backgroundColor = "#ddf";
-symbols[i].setAttribute("onmouseout", "this.style.backgroundColor = '#ddf'");
-symbols[i].setAttribute("onmouseover", "this.style.backgroundColor = '#ccd'");
-}
-symbols[0].setAttribute("onclick", "o_first_player()");
-symbols[1].setAttribute("onclick", "x_first_player()");
-element.setAttribute("onclick", "restart(this)");
-element.style.opacity = "0.5";
-}
-
-var s;
-function o_first_player() {
-s = o;
-for (i = 0; i < symbols.length; i++) {
-symbols[i].style.backgroundColor = "#ddf";
-symbols[i].setAttribute("onmouseover", "");
-symbols[i].setAttribute("onclick", "");
-}
-symbols[1].style.opacity = "0.5";
-for (i = 0; i < cells.length; i++) {
-cells[i].setAttribute("onclick", "play(this)");
-cells[i].setAttribute("onmouseout", "this.style.backgroundColor = '#777'");
-cells[i].setAttribute("onmouseover", "this.style.backgroundColor = '#999'");
-cells[i].style.opacity = "1";
-button.style.opacity = "1";
-}
-}
-
-function x_first_player() {
-s = x;
-for (i = 0; i < symbols.length; i++) {
-symbols[i].style.backgroundColor = "#ddf";
-symbols[i].setAttribute("onmouseover", "");
-symbols[i].setAttribute("onclick", "");
-}
-symbols[0].style.opacity = "0.5";
-for (i = 0; i < cells.length; i++) {
-cells[i].setAttribute("onclick", "play(this)");
-cells[i].setAttribute("onmouseout", "this.style.backgroundColor = '#777'");
-cells[i].setAttribute("onmouseover", "this.style.backgroundColor = '#999'");
-cells[i].style.opacity = "1";
-button.style.opacity = "1";
-}
-}
-
-var play_number = 0;
-function play(element) {
-element.innerHTML = s;
-element.setAttribute("onclick", "");
-element.style.backgroundColor = "#777";
-element.setAttribute("onmouseover", "");
-play_number++;
-check_win();
-if (winner == false && play_number < 9) {
-switch_symbol();
-}
-}
-
-function switch_symbol() {
-if (s == o) {
-s = x;
-symbols[0].style.opacity = "0.5";
-symbols[1].style.opacity = "1";
-} else {
-s = o;
-symbols[0].style.opacity = "1";
-symbols[1].style.opacity = "0.5";
-}
-}
-
-var cells_values = new Array(9);
-var winner = false;
-function check_win() {
-
-for(k = 0; k < cells.length; k++) {
-if (cells[k].innerHTML == o) {
-cells_values[k] = "o";
-}
-else if (cells[k].innerHTML == x) {
-cells_values[k] = "x";
-}
-else {
-cells_values[k] = "";
-}
-}
-
-for(i = 0; i < cells_values.length; i++) {
-if (cells_values[i] != "" && cells_values[i] == cells_values[i+3] && cells_values[i+3] == cells_values[i+6]) {
-cells[i].style.backgroundColor = "#dfd";
-cells[i+3].style.backgroundColor = "#dfd";
-cells[i+6].style.backgroundColor = "#dfd";
-winner = true;
-}
-}
-
-for (i = 0; i < cells_values.length; i++) {
-if (i % 3 == 0) {
-if (cells_values[i] != "" && cells_values[i] == cells_values[i+1] && cells_values[i+1] == cells_values[i+2]) {
-cells[i].style.backgroundColor = "#dfd";
-cells[i+1].style.backgroundColor = "#dfd";
-cells[i+2].style.backgroundColor = "#dfd";
-winner = true;
-}
-}
-}
-
-if (cells_values[0] != "" && cells_values[0] == cells_values[4] && cells_values[4] == cells_values[8]) {
-cells[0].style.backgroundColor = "#dfd";
-cells[4].style.backgroundColor = "#dfd";
-cells[8].style.backgroundColor = "#dfd";
-winner = true;
-}
-
-if (cells_values[2] != "" && cells_values[2] == cells_values[4] && cells_values[4] == cells_values[6]) {
-cells[2].style.backgroundColor = "#dfd";
-cells[4].style.backgroundColor = "#dfd";
-cells[6].style.backgroundColor = "#dfd";
-winner = true;
-}
-
-if (winner == true) {
-if (s == o) {
-symbols[0].style.backgroundColor = "#dfd";
-symbols[1].style.backgroundColor = "#fdd";
-} else {
-symbols[0].style.backgroundColor = "#fdd";
-symbols[1].style.backgroundColor = "#dfd";
-}
-for (i = 0; i < cells.length; i++) {
-cells[i].setAttribute("onclick", "");
-cells[i].style.opacity = "0.5";
-cells[i].setAttribute("onmouseout", "");
-cells[i].setAttribute("onmouseover", "");
-}
-for (i = 0; i < symbols.length; i++) {
-symbols[i].style.opacity = "1";
-symbols[i].setAttribute("onmouseout", "");
-symbols[i].setAttribute("onmouseover", "");
-}
-}
-
-else if (play_number == 9) {
-for (i = 0; i < cells.length; i++) {
-cells[i].style.opacity = "0.5";
-}
-for (i = 0; i < symbols.length; i++) {
-symbols[i].setAttribute("onmouseout", "");
-symbols[i].setAttribute("onmouseover", "");
-symbols[i].style.backgroundColor = "#ffd";
-symbols[i].style.opacity = "1";
-}
-}
-
-}
-
-function restart(element) {
-winner = false;
-play_number = 0;
-for (i = 0; i < cells.length; i++) {
-cells[i].innerHTML = "";
-cells[i].style.backgroundColor = "#777";
-}
-for (i = 0; i < symbols.length; i++) {
-symbols[i].setAttribute("onclick", "");
-symbols[i].style.opacity = "0.5";
-symbols[i].style.backgroundColor = "#ddf";
-symbols[i].setAttribute("onmouseout", "this.style.backgroundColor = '#ddf'");
-symbols[i].setAttribute("onmouseover", "this.style.backgroundColor = '#ccd'");
-}
-start(element);
-}
-
-
-</script>
+	<h3 id="title">work | <span>clock</span></h3>
+	<div id=container>
+		<div id="line1-container">
+			<div id="line1"></div>
+		</div>
+		<div id="line2-container">
+			<div id="line2"></div>
+		</div>
+	</div>
 </body>
 </html>

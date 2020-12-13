@@ -1,0 +1,690 @@
+WEBVTT
+
+1
+00:00:03.518 --> 00:00:08.480
+Setting the scene
+
+2
+00:00:11.512 --> 00:00:14.510
+Now, we use our
+animatic as a reference and see
+
+3
+00:00:14.510 --> 00:00:16.497
+that the next scene we have
+
+4
+00:00:16.497 --> 00:00:18.267
+It is the approach of the face.
+
+5
+00:00:18.267 --> 00:00:20.665
+Then, let's put the expensive object.
+
+6
+00:00:20.665 --> 00:00:24.213
+We are going to create
+a comp called Scene_02,
+
+7
+00:00:24.213 --> 00:00:26.333
+It's going to start right now.
+
+8
+00:00:26.960 --> 00:00:29.973
+Actually, as our
+animatic starts before,
+
+9
+00:00:31.243 --> 00:00:33.043
+From this moment.
+
+10
+00:00:33.043 --> 00:00:35.373
+Let's copy the styleframe first
+
+11
+00:00:38.593 --> 00:00:40.255
+from scene two
+
+12
+00:00:41.843 --> 00:00:44.030
+and we will enter our scene two.
+
+13
+00:00:45.465 --> 00:00:47.955
+Ah, it's not
+styleframe two, it's three.
+
+14
+00:00:49.018 --> 00:00:52.873
+The way we name our
+scenes on the storyboard
+
+15
+00:00:52.873 --> 00:00:54.815
+It may be different
+from the one we use
+
+16
+00:00:54.815 --> 00:00:58.073
+to name scenes in
+our animation project,
+
+17
+00:00:58.073 --> 00:01:01.975
+because maybe in the
+precomp of Scene_01
+
+18
+00:01:01.975 --> 00:01:04.435
+we have three scenes
+from the storyboard,
+
+19
+00:01:04.435 --> 00:01:05.870
+two or three, or whatever,
+
+20
+00:01:05.870 --> 00:01:07.847
+and the next one is
+going to be Scene_02.
+
+21
+00:01:07.847 --> 00:01:11.895
+So, let's skip some storyboard numbers
+
+22
+00:01:11.895 --> 00:01:14.188
+just to keep it consecutive.
+
+23
+00:01:14.188 --> 00:01:16.488
+We make sure this is in Guide.
+
+24
+00:01:17.345 --> 00:01:20.457
+And we are going to add the
+bottom, maybe with some solid,
+
+25
+00:01:20.457 --> 00:01:24.227
+since the background was not
+prepared as Asset in this scene,
+
+26
+00:01:24.227 --> 00:01:26.675
+but being so simple
+we have no problem.
+
+27
+00:01:26.675 --> 00:01:29.113
+We can generate some shape layers,
+
+28
+00:01:30.360 --> 00:01:34.830
+and since the
+styleframes were exported as PNG,
+
+29
+00:01:34.830 --> 00:01:37.113
+we are sure that the color they have
+
+30
+00:01:37.113 --> 00:01:38.170
+That's the right one.
+
+31
+00:01:38.170 --> 00:01:41.770
+Sometimes JPEGs have some compression
+
+32
+00:01:41.770 --> 00:01:44.500
+which makes the colors change a bit.
+
+33
+00:01:45.905 --> 00:01:48.065
+We can put these two comps together
+
+34
+00:01:48.065 --> 00:01:51.153
+in one that is bottom-approach.
+
+35
+00:01:58.583 --> 00:02:02.413
+Now we need to have the
+animatic as a reference for this scene.
+
+36
+00:02:02.413 --> 00:02:05.950
+We will return to our initial
+comp where we have the animatic
+
+37
+00:02:05.950 --> 00:02:08.403
+And what we do is duplicate it.
+
+38
+00:02:08.403 --> 00:02:11.238
+We will cut it from that moment.
+
+39
+00:02:11.238 --> 00:02:13.270
+I'm going to put
+color to make it look.
+
+40
+00:02:13.270 --> 00:02:16.578
+We will keep the beginning in
+the beginning, in the second 0,
+
+41
+00:02:16.578 --> 00:02:20.385
+but we are going to cut it at
+the moment when Comp_02 begins.
+
+42
+00:02:20.385 --> 00:02:24.273
+I cut it, carry it inside
+and carry it at the beginning.
+
+43
+00:02:24.273 --> 00:02:28.465
+So I make sure that the two
+comps are starting at the same time.
+
+44
+00:02:28.465 --> 00:02:31.718
+Thus we have the animatic as
+a reference for this scene.
+
+45
+00:02:31.718 --> 00:02:33.348
+We will go forward and see
+
+46
+00:02:33.348 --> 00:02:36.483
+that about 3 seconds
+later the scene is cut.
+
+47
+00:02:36.483 --> 00:02:39.695
+So, we can give it a
+second more tolerance,
+
+48
+00:02:39.695 --> 00:02:41.560
+of surplus, just in case.
+
+49
+00:02:41.560 --> 00:02:45.520
+Let's see that here our
+character appears looking to the left
+
+50
+00:02:45.520 --> 00:02:48.692
+and halfway around, turn
+your head to the other side.
+
+51
+00:02:48.692 --> 00:02:50.453
+So, in the face layer
+
+52
+00:02:50.453 --> 00:02:52.733
+we are going to put a marker right now
+
+53
+00:02:54.308 --> 00:02:56.678
+and we will finish the scene here.
+
+54
+00:02:56.678 --> 00:03:00.090
+What we are going to do now
+is that from this moment on
+
+55
+00:03:00.090 --> 00:03:03.478
+Assets with number
+two ahead are displayed,
+
+56
+00:03:03.478 --> 00:03:05.793
+They are face facing the other side.
+
+57
+00:03:05.793 --> 00:03:08.378
+There, more or less, we
+have the return of face.
+
+58
+00:03:08.378 --> 00:03:10.493
+This we will later encourage better,
+
+59
+00:03:10.493 --> 00:03:13.752
+But for now, to
+assemble a skeleton, it's fine.
+
+60
+00:03:15.068 --> 00:03:17.742
+It doesn't matter if the
+timing doesn't match exactly,
+
+61
+00:03:17.742 --> 00:03:22.000
+If the timing of our animation does
+not match exactly with the animatic,
+
+62
+00:03:22.868 --> 00:03:26.220
+because it is simply a
+reference that is flexible.
+
+63
+00:03:26.220 --> 00:03:27.660
+We are going to adjust it
+
+64
+00:03:27.660 --> 00:03:29.860
+when we work better in animation.
+
+65
+00:03:30.368 --> 00:03:32.270
+So we have scene two.
+
+66
+00:03:32.993 --> 00:03:36.237
+In the same way we continue
+with the rest of the scenes.
+
+67
+00:03:52.588 --> 00:03:54.658
+This scene has a small zoom
+
+68
+00:03:56.883 --> 00:03:59.997
+that we are going to see if
+we do it here with a Null I
+
+69
+00:03:59.997 --> 00:04:02.300
+It may be centered on the diamond.
+
+70
+00:04:05.173 --> 00:04:09.110
+Maybe it's not exactly like
+that, but we'll refine it later.
+
+71
+00:04:38.330 --> 00:04:40.920
+For now I will not
+worry about the reflection,
+
+72
+00:04:40.920 --> 00:04:43.428
+because we can add that later.
+
+73
+00:04:52.840 --> 00:04:55.110
+These styleframes
+
+74
+00:04:55.110 --> 00:04:56.593
+for now they are not necessary,
+
+75
+00:04:56.593 --> 00:04:58.933
+It is better to use
+them within each comp.
+
+76
+00:05:02.965 --> 00:05:06.433
+We use the same background
+layer again with the other pose
+
+77
+00:05:06.433 --> 00:05:08.018
+for the next scene,
+
+78
+00:05:08.958 --> 00:05:10.857
+that probably scene five
+
+79
+00:05:10.857 --> 00:05:13.173
+be the same until the end,
+
+80
+00:05:14.043 --> 00:05:16.570
+since there are no
+big camera movements,
+
+81
+00:05:16.570 --> 00:05:18.940
+Only one movement to the side.
+
+82
+00:05:18.940 --> 00:05:21.488
+And more or less
+here the animation ends.
+
+83
+00:05:34.683 --> 00:05:37.210
+As this background has
+another different animation
+
+84
+00:05:37.210 --> 00:05:38.873
+to the one in animation_01,
+
+85
+00:05:38.873 --> 00:05:42.320
+we will look for this
+fund in our precomps,
+
+86
+00:05:42.320 --> 00:05:44.407
+let's double it
+
+87
+00:05:44.407 --> 00:05:47.833
+and we are going to put Final,
+because it is the bottom of the end,
+
+88
+00:05:47.833 --> 00:05:50.658
+and we will use that
+fund instead of the first.
+
+89
+00:05:50.658 --> 00:05:52.807
+To this we are going
+to put bottom-initial.
+
+90
+00:05:53.465 --> 00:05:55.998
+So, now we take the same styleframe
+
+91
+00:05:55.998 --> 00:05:57.483
+and entering the final fund
+
+92
+00:05:57.483 --> 00:05:59.815
+we are going to do the
+same thing we just did
+
+93
+00:05:59.815 --> 00:06:02.017
+to have the reference styleframe.
+
+94
+00:06:02.017 --> 00:06:05.578
+Now we are going to make
+the lights from the beginning.
+
+95
+00:06:06.585 --> 00:06:10.515
+The color of the diamond
+holder is what we had put
+
+96
+00:06:10.515 --> 00:06:14.328
+in the keyframe we had,
+which was the initial one,
+
+97
+00:06:15.130 --> 00:06:16.813
+and supposedly the columns
+
+98
+00:06:16.813 --> 00:06:20.468
+they are also the ones we had
+in the keyframe we had saved,
+
+99
+00:06:21.213 --> 00:06:26.345
+since the initial drawing of the
+background was based on this styleframe.
+
+100
+00:06:26.345 --> 00:06:29.318
+If we reset it, it will center us
+
+101
+00:06:29.318 --> 00:06:32.088
+and there we will see that we
+are locating everything well.
+
+102
+00:06:32.088 --> 00:06:35.943
+Then, we can eliminate it because
+it is not necessary as a reference.
+
+103
+00:06:36.563 --> 00:06:40.612
+If we go to the initial background,
+which we always use in the first scene,
+
+104
+00:06:40.612 --> 00:06:43.620
+We can delete those keyframes,
+
+105
+00:06:43.620 --> 00:06:46.755
+since we are already
+using them in our final fund.
+
+106
+00:06:46.755 --> 00:06:50.527
+So, scene five we have almost ready.
+
+107
+00:06:51.563 --> 00:06:53.868
+We use our styleframe as a reference
+
+108
+00:06:53.868 --> 00:06:56.870
+and we place the character
+more or less where he has to go.
+
+109
+00:06:57.250 --> 00:06:58.647
+This is going to be animated,
+
+110
+00:06:58.647 --> 00:07:01.128
+so there's not much
+problem if it doesn't match.
+
+111
+00:07:01.128 --> 00:07:03.398
+We will start using color codes
+
+112
+00:07:03.398 --> 00:07:05.438
+To differentiate some things.
+
+113
+00:07:05.438 --> 00:07:09.583
+We are going to put the character
+fuchsia, since it has a medium violet color,
+
+114
+00:07:09.583 --> 00:07:11.333
+and the funds can be cyan.
+
+115
+00:07:11.560 --> 00:07:13.840
+We will do the same in scene one.
+
+116
+00:07:14.880 --> 00:07:16.600
+In scene two
+
+117
+00:07:17.823 --> 00:07:19.795
+the animatic is black,
+
+118
+00:07:19.795 --> 00:07:21.678
+All references are black.
+
+119
+00:07:23.208 --> 00:07:26.213
+In Scene_03 we have only the diamond,
+
+120
+00:07:26.213 --> 00:07:28.310
+It doesn't take much color code.
+
+121
+00:07:28.310 --> 00:07:31.948
+Here, the boot is fuchsia because
+it corresponds to the character.
+
+122
+00:07:32.498 --> 00:07:36.258
+The background is cyan, here we
+have it separated into two objects.
+
+123
+00:07:36.258 --> 00:07:38.858
+and in scene five, we are ready.
+
+124
+00:07:38.858 --> 00:07:40.460
+Now we are going to do the same
+
+125
+00:07:40.460 --> 00:07:43.205
+Take the animatic as a
+reference at that point.
+
+126
+00:07:47.498 --> 00:07:49.448
+Here is a camera movement
+
+127
+00:07:49.448 --> 00:07:51.953
+that for now we are
+going to do it with a Null I.
+
+128
+00:07:54.508 --> 00:07:56.580
+We're going to animate only in X,
+
+129
+00:07:57.598 --> 00:08:00.800
+but we are going to adjust
+it better when we go further,
+
+130
+00:08:00.800 --> 00:08:03.420
+because there’s going to be
+a Parallax with the columns,
+
+131
+00:08:03.420 --> 00:08:05.072
+Several things will change.
+
+132
+00:08:05.885 --> 00:08:08.847
+Anyway, we give it a
+bit of acceleration.
+
+133
+00:08:09.208 --> 00:08:11.660
+And what we have to
+include here finally
+
+134
+00:08:11.660 --> 00:08:13.882
+is the character standing
+
+135
+00:08:18.540 --> 00:08:20.328
+and the walking character.
+
+136
+00:08:20.328 --> 00:08:23.023
+I will duplicate this
+to hold the position,
+
+137
+00:08:23.023 --> 00:08:24.505
+and I will add hike
+
+138
+00:08:24.505 --> 00:08:27.027
+to make sure it's at the same height.
+
+139
+00:08:27.027 --> 00:08:29.988
+We are going to accommodate
+the location of these things,
+
+140
+00:08:29.988 --> 00:08:33.682
+but for now we just want
+to have a kind of skeleton.
+
+141
+00:08:43.803 --> 00:08:47.290
+We will put our layers
+with the corresponding colors
+
+142
+00:08:48.075 --> 00:08:49.953
+to locate us a little more.
+
+143
+00:08:55.228 --> 00:08:57.943
+And the scenes can have a color ...
+
+144
+00:08:57.943 --> 00:09:00.817
+Match the colors here with these
+
+145
+00:09:00.817 --> 00:09:04.713
+It helps us maintain a
+consistency in our head
+
+146
+00:09:04.713 --> 00:09:08.630
+and so we place the
+comps in the tab easier.
+
+147
+00:09:08.630 --> 00:09:12.155
+When we have an orange open we
+already know that it is a scene.
+
+148
+00:09:12.758 --> 00:09:15.473
+So we can hide the animatic
+
+149
+00:09:15.473 --> 00:09:18.462
+and we already have a first
+skeleton of our animation.
+
+150
+00:09:19.668 --> 00:09:20.967
+The only thing missing here
+
+151
+00:09:20.967 --> 00:09:24.563
+is that the new
+characters accompany the camera.
+
+152
+00:09:31.520 --> 00:09:35.000
+Having already assembled a
+basic structure of our project
+
+153
+00:09:35.000 --> 00:09:37.363
+We can continue adding animation.

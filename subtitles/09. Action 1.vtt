@@ -1,0 +1,491 @@
+WEBVTT
+
+1
+00:00:04.680 --> 00:00:08.423
+Action
+
+2
+00:00:08.863 --> 00:00:13.053
+In this lesson we will continue with
+the scene of more action of our animation.
+
+3
+00:00:13.053 --> 00:00:16.558
+We will encourage the
+fastest movements of our character.
+
+4
+00:00:16.558 --> 00:00:20.918
+We will see what Smear frames are
+and how to apply them in After Effects.
+
+5
+00:00:25.753 --> 00:00:27.935
+We are going to
+continue taking the boot,
+
+6
+00:00:27.935 --> 00:00:31.075
+which is what will give
+rise to the next scene.
+
+7
+00:00:31.075 --> 00:00:35.343
+It will serve us in
+anticipation for the next action.
+
+8
+00:00:35.645 --> 00:00:39.650
+We will take as a reference the
+moment in which according to our animatic
+
+9
+00:00:39.650 --> 00:00:41.403
+the next scene begins,
+
+10
+00:00:41.403 --> 00:00:43.865
+to put a mark on our composition,
+
+11
+00:00:43.880 --> 00:00:46.760
+just to have the
+references, insurance lasts longer.
+
+12
+00:00:46.760 --> 00:00:50.200
+Let's go to the boot
+comp, to cheer her up.
+
+13
+00:00:51.178 --> 00:00:54.670
+We only have one layer
+in our precomposition
+
+14
+00:00:54.670 --> 00:00:57.602
+isolated from the bottom
+then it doesn't make much sense
+
+15
+00:00:57.602 --> 00:00:59.920
+Work it on a separate precomp.
+
+16
+00:01:00.303 --> 00:01:04.080
+So what we are going to do is
+get the contents of that precomp.
+
+17
+00:01:04.253 --> 00:01:06.713
+I will do this with
+the help of a plugin.
+
+18
+00:01:06.713 --> 00:01:09.977
+Yes, I told them we wouldn't use
+plugins but this one doesn't count,
+
+19
+00:01:09.977 --> 00:01:12.297
+Because it is very
+simple and very useful.
+
+20
+00:01:12.480 --> 00:01:15.675
+It's called Un-PreCompose,
+I'll give you the link to use it.
+
+21
+00:01:15.675 --> 00:01:18.533
+What it does is extract
+the content of the precomp.
+
+22
+00:01:18.600 --> 00:01:20.203
+We give OK to the options.
+
+23
+00:01:20.250 --> 00:01:24.838
+We removed the boot layer
+in the exact position it had,
+
+24
+00:01:24.838 --> 00:01:27.865
+with all the
+animations I would have had,
+
+25
+00:01:27.880 --> 00:01:30.032
+having had, something as it was.
+
+26
+00:01:30.032 --> 00:01:32.753
+And we add this null in
+case the precomposition
+
+27
+00:01:32.753 --> 00:01:36.130
+I had some position, in this
+case not so we eliminated it.
+
+28
+00:01:36.340 --> 00:01:38.823
+All we wanted was to remove the boot.
+
+29
+00:01:40.288 --> 00:01:44.120
+Let's do as always,
+convert to vector layer.
+
+30
+00:01:46.348 --> 00:01:48.045
+And let's start cheering.
+
+31
+00:01:48.045 --> 00:01:53.733
+I will locate the anchor
+point at the heel point.
+
+32
+00:01:53.733 --> 00:01:57.795
+Just in case, if at any
+time we perform a rotation,
+
+33
+00:01:57.795 --> 00:02:00.600
+That will be our point
+of contact with the floor.
+
+34
+00:02:00.930 --> 00:02:04.648
+First we are going to
+add a position keyframe.
+
+35
+00:02:05.225 --> 00:02:06.295
+And another rotation.
+
+36
+00:02:07.038 --> 00:02:11.822
+With the keyboard shortcuts, with P and
+R, the rotation and position are shown,
+
+37
+00:02:11.840 --> 00:02:16.520
+they should know that, but once they
+have the position they press Shift + R
+
+38
+00:02:16.538 --> 00:02:18.120
+Show the two together.
+
+39
+00:02:20.110 --> 00:02:23.593
+In this shot we can
+play a little over time,
+
+40
+00:02:23.593 --> 00:02:27.625
+in the sense of slow
+motion in a moment.
+
+41
+00:02:27.625 --> 00:02:32.673
+Then we will make the
+foot appear quickly,
+
+42
+00:02:32.673 --> 00:02:36.643
+maybe he stays there for a
+while, maybe when he's stepping on,
+
+43
+00:02:38.268 --> 00:02:39.988
+and finally walks away.
+
+44
+00:02:41.633 --> 00:02:44.398
+Here the first
+moment can be very fast.
+
+45
+00:02:46.093 --> 00:02:49.360
+And the slow moment may be
+when it is about to gain momentum.
+
+46
+00:02:57.145 --> 00:03:01.408
+In general I try to use
+position and rotation animations.
+
+47
+00:03:01.463 --> 00:03:03.662
+Thus our object does not deform much,
+
+48
+00:03:03.948 --> 00:03:07.038
+and we can move it
+through space more easily.
+
+49
+00:03:08.035 --> 00:03:11.658
+Once we have the basic
+structure of the movement,
+
+50
+00:03:12.075 --> 00:03:15.173
+Let's start
+adjusting the famous Paths.
+
+51
+00:03:16.975 --> 00:03:20.465
+I will locate the first
+keyframes at the moment we define
+
+52
+00:03:20.480 --> 00:03:23.280
+in our styleframe,
+which is this moment.
+
+53
+00:03:23.593 --> 00:03:27.610
+Here we know that all those keyframes
+are fine and we will leave them like this.
+
+54
+00:03:27.880 --> 00:03:33.090
+Now we are going to start modifying
+them to adapt them to each position.
+
+55
+00:03:36.548 --> 00:03:39.757
+Keep in mind that when
+you have a rotated object,
+
+56
+00:03:40.078 --> 00:03:43.375
+if they use the transformation
+box and move it with the keyboard
+
+57
+00:03:43.375 --> 00:03:47.278
+it will move in the direction
+in which the object is rotated.
+
+58
+00:03:47.368 --> 00:03:49.343
+That can be a bit confusing.
+
+59
+00:03:51.000 --> 00:03:54.960
+In these cases, perhaps it is
+better to simply use the "mouse".
+
+60
+00:03:55.400 --> 00:03:56.640
+Or the tablet.
+
+61
+00:04:00.000 --> 00:04:02.508
+This is the moment we have
+
+62
+00:04:02.508 --> 00:04:07.280
+the foot fully supported on the
+floor, which is the moment when recharging
+
+63
+00:04:07.280 --> 00:04:09.953
+energy, say, and then boost.
+
+64
+00:04:16.418 --> 00:04:19.363
+In this moment in which
+the foot remains still,
+
+65
+00:04:19.363 --> 00:04:22.302
+What we will do is make it flex.
+
+66
+00:04:22.338 --> 00:04:25.750
+When we're more or
+less happy with a pose,
+
+67
+00:04:25.750 --> 00:04:28.248
+we can add keyframes in all Paths,
+
+68
+00:04:28.248 --> 00:04:32.718
+even those who are not animated yet,
+and if we encourage them in the next pose
+
+69
+00:04:32.718 --> 00:04:37.133
+We are going to want to be encouraged
+from this keyframe, not from the beginning.
+
+70
+00:04:37.133 --> 00:04:40.880
+We put a kind of
+"checkpoint", a stop at that time,
+
+71
+00:04:40.888 --> 00:04:43.793
+to make sure that position is fixed.
+
+72
+00:04:46.208 --> 00:04:48.705
+Now let's see how we flex this.
+
+73
+00:04:57.238 --> 00:04:59.642
+Here we are going to
+have an interpolation
+
+74
+00:04:59.642 --> 00:05:03.043
+a little weird, we may have to
+correct something very subtle,
+
+75
+00:05:03.043 --> 00:05:08.060
+but there are some slightly
+rare deformations in between.
+
+76
+00:05:23.010 --> 00:05:26.798
+We are going to adjust
+these details at the end.
+
+77
+00:05:26.888 --> 00:05:30.153
+But as long as we can fix
+some things, the better.
+
+78
+00:05:37.198 --> 00:05:41.912
+This is the moment when you
+can slow everything down a bit.
+
+79
+00:05:50.433 --> 00:05:52.787
+And the final moment will be faster.
+
+80
+00:05:59.118 --> 00:06:01.445
+Now, when the boot starts to take off,
+
+81
+00:06:01.445 --> 00:06:05.078
+we will adjust the shape
+
+82
+00:06:05.078 --> 00:06:07.688
+as if it were peeling off the floor.
+
+83
+00:06:15.625 --> 00:06:20.433
+When making deformations so linked
+to another object, such as the floor,
+
+84
+00:06:20.433 --> 00:06:23.148
+and they are in the middle
+of a position transition,
+
+85
+00:06:23.148 --> 00:06:26.040
+what we can do is
+also fix a keyframe there
+
+86
+00:06:26.040 --> 00:06:29.163
+so that later we can move
+those two attributes together,
+
+87
+00:06:29.163 --> 00:06:31.527
+those of the form and
+those of the position.
+
+88
+00:06:31.948 --> 00:06:34.108
+We can adjust the time a bit,
+
+89
+00:06:34.108 --> 00:06:38.365
+making sure that he will keep in
+touch with the floor, as we wanted.
+
+90
+00:06:48.993 --> 00:06:52.615
+And at this moment when it is
+already taking off from the floor,
+
+91
+00:06:52.615 --> 00:06:55.883
+let's make it
+stretch as much as possible
+
+92
+00:06:55.960 --> 00:06:58.880
+So you feel like you
+are giving momentum.
+
+93
+00:07:06.035 --> 00:07:08.498
+There it was pretty
+good, but right now
+
+94
+00:07:08.498 --> 00:07:11.470
+It feels like it warps a little.
+
+95
+00:07:11.470 --> 00:07:13.843
+We have to start
+taking care of the volumes.
+
+96
+00:07:18.360 --> 00:07:20.480
+Something like that
+is already pretty good.
+
+97
+00:07:21.120 --> 00:07:25.308
+Let's see if at this moment,
+when the foot is about to support,
+
+98
+00:07:25.320 --> 00:07:28.395
+we can soften this rotation a bit
+
+99
+00:07:28.400 --> 00:07:32.120
+and give the toe a little delay,
+
+100
+00:07:32.120 --> 00:07:36.200
+that in this case,
+actually, instead of giving it delay
+
+101
+00:07:36.220 --> 00:07:38.638
+Let's anticipate all this part.
+
+102
+00:07:41.440 --> 00:07:43.278
+That already starts to be in position
+
+103
+00:07:43.278 --> 00:07:46.345
+and finally lower
+only the tip of the foot.
+
+104
+00:07:52.880 --> 00:07:56.242
+This scene with this
+should have been pretty good.

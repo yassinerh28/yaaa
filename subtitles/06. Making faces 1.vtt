@@ -1,0 +1,419 @@
+WEBVTT
+
+1
+00:00:04.680 --> 00:00:08.480
+Making faces
+
+2
+00:00:09.153 --> 00:00:13.193
+In this lesson we will animate
+the approach to the face scene,
+
+3
+00:00:13.193 --> 00:00:16.238
+where we will focus on
+the character's expressions.
+
+4
+00:00:21.808 --> 00:00:25.523
+In the previous scene I added
+a last move to the character,
+
+5
+00:00:25.523 --> 00:00:27.360
+in which he begins to stand.
+
+6
+00:00:27.378 --> 00:00:29.723
+So, the moment we make the cut,
+
+7
+00:00:29.723 --> 00:00:32.373
+We can continue the
+movement with this scene.
+
+8
+00:00:32.578 --> 00:00:36.012
+This kind of thing helps us
+connect one scene with another
+
+9
+00:00:36.012 --> 00:00:39.913
+and at the same time it simplifies us
+not having to show the complete movement
+
+10
+00:00:39.913 --> 00:00:41.030
+of the character.
+
+11
+00:00:41.030 --> 00:00:44.540
+I followed the process we had been
+using to encourage the character,
+
+12
+00:00:44.540 --> 00:00:48.693
+animated with vector layers, with
+changes of position and rotation.
+
+13
+00:00:48.693 --> 00:00:51.995
+What I did keep in mind is
+that the movement of the character
+
+14
+00:00:52.000 --> 00:00:54.600
+when standing it is
+different from when it falls.
+
+15
+00:00:54.920 --> 00:00:59.000
+Deal with the torso, raising the
+shoulders first and then the head.
+
+16
+00:00:59.600 --> 00:01:02.040
+I made the cut right then,
+
+17
+00:01:02.045 --> 00:01:04.668
+so when we follow it
+with the next scene
+
+18
+00:01:04.668 --> 00:01:07.485
+We can make the
+character appear on the floor.
+
+19
+00:01:08.383 --> 00:01:12.445
+Let's do the usual, and
+convert our layers to vectors.
+
+20
+00:01:22.810 --> 00:01:27.007
+Luckily, the Illustrator
+file was interpreted perfectly,
+
+21
+00:01:27.007 --> 00:01:31.163
+even on the face where we have a
+clipping mask applied to the eye.
+
+22
+00:01:33.970 --> 00:01:36.548
+Now we are going to
+link the Path of the mask
+
+23
+00:01:36.548 --> 00:01:40.125
+with the white part of the
+eye, just to have to animate one.
+
+24
+00:01:53.268 --> 00:01:57.328
+Now what we can do is
+animate the pupil figure
+
+25
+00:01:57.328 --> 00:02:00.208
+and it will be perfectly masked
+
+26
+00:02:00.208 --> 00:02:03.560
+and when we move the white
+part the mask will move too.
+
+27
+00:02:03.560 --> 00:02:05.720
+We will do the same
+with the other eye.
+
+28
+00:02:19.400 --> 00:02:23.463
+This should be achieved in order
+to perfectly animate all objects.
+
+29
+00:02:23.463 --> 00:02:26.028
+We will do the same with
+the other side of the face.
+
+30
+00:02:40.038 --> 00:02:42.165
+Now we focus on animation.
+
+31
+00:02:42.165 --> 00:02:46.530
+Let's go to the beginning,
+let's give it a position keyframe
+
+32
+00:02:46.530 --> 00:02:49.155
+to all objects and
+one of rotation to all.
+
+33
+00:02:49.223 --> 00:02:51.387
+And we will select all Paths,
+
+34
+00:02:51.387 --> 00:02:56.213
+except those with the duplicate
+expression, and we add a keyframe.
+
+35
+00:03:11.800 --> 00:03:15.275
+First we create a null, which
+we will link to our character
+
+36
+00:03:15.275 --> 00:03:19.938
+to make our character appear
+from the bottom of the scene.
+
+37
+00:03:41.328 --> 00:03:44.555
+The character does not
+have to disappear completely,
+
+38
+00:03:44.555 --> 00:03:47.335
+better if you don't,
+because at the time of the cut
+
+39
+00:03:47.335 --> 00:03:50.662
+The character is already on the
+move, is already in transition.
+
+40
+00:03:55.353 --> 00:03:57.642
+Let's give a little overlapping here.
+
+41
+00:04:12.858 --> 00:04:15.785
+For now we leave aside
+the animation of the null,
+
+42
+00:04:15.800 --> 00:04:19.200
+to focus on a false
+face rotation movement,
+
+43
+00:04:19.200 --> 00:04:23.600
+So then we combine both
+movements for a sense of dimensionality.
+
+44
+00:04:53.720 --> 00:04:57.360
+If you stand in front of the
+mirror and look at your head
+
+45
+00:04:57.360 --> 00:05:00.480
+making a "yes" movement, up and down,
+
+46
+00:05:00.480 --> 00:05:05.320
+you will see that when the head
+lowers the front of the face also lowers
+
+47
+00:05:05.320 --> 00:05:08.218
+but the ears and the
+back of the hair go up.
+
+48
+00:05:08.493 --> 00:05:12.858
+That's because the axis of the
+face is quite centered on the skull
+
+49
+00:05:12.858 --> 00:05:16.155
+and the parts that are farthest
+
+50
+00:05:16.155 --> 00:05:19.198
+they move in the opposite
+direction to those that are closer.
+
+51
+00:05:19.198 --> 00:05:22.605
+That we try to simulate
+when we make a face move.
+
+52
+00:05:53.183 --> 00:05:56.355
+Let's take advantage that we
+can deform the face completely
+
+53
+00:05:56.360 --> 00:05:59.640
+and we're going to fine tune the
+jaw when you look straight ahead
+
+54
+00:05:59.645 --> 00:06:02.300
+since it is as if
+we saw it from above.
+
+55
+00:06:08.720 --> 00:06:13.275
+This part of the hair will be
+like a jopo, it becomes more round
+
+56
+00:06:13.275 --> 00:06:15.113
+when leaning forward.
+
+57
+00:06:18.313 --> 00:06:21.333
+There more or less we
+have a sense of rotation.
+
+58
+00:06:21.563 --> 00:06:25.330
+We have to consider that the
+head, having the axis in the neck,
+
+59
+00:06:25.330 --> 00:06:28.250
+when leaning you should move forward.
+
+60
+00:06:28.250 --> 00:06:30.793
+If not, it seems that the
+face is going backwards.
+
+61
+00:07:01.893 --> 00:07:05.118
+Once we are happy with
+the movement of the face,
+
+62
+00:07:05.118 --> 00:07:08.460
+We can accommodate other parts
+of the body, such as the torso.
+
+63
+00:07:14.620 --> 00:07:17.857
+For now, keyframes have
+a linear acceleration.
+
+64
+00:07:17.857 --> 00:07:22.098
+It is better to ensure a good
+movement of all the elements accordingly
+
+65
+00:07:22.098 --> 00:07:24.325
+before applying acceleration.
+
+66
+00:07:36.360 --> 00:07:40.080
+The torso could be
+forward, as if inclined.
+
+67
+00:07:40.858 --> 00:07:45.015
+And we can give it some
+rotation to exaggerate the movement.
+
+68
+00:07:48.560 --> 00:07:51.440
+There is good. Now we lack hair.
+
+69
+00:07:52.583 --> 00:07:55.260
+We are going to place it
+more or less where it belongs.
+
+70
+00:07:55.903 --> 00:07:58.550
+And we reconnect
+everything with the null.
+
+71
+00:07:58.783 --> 00:08:01.963
+Let's not change the
+things we already have linked,
+
+72
+00:08:01.963 --> 00:08:04.635
+but only link those
+that are not linked.
+
+73
+00:08:04.798 --> 00:08:07.563
+If we link the torso and
+the hair, and the others,
+
+74
+00:08:07.563 --> 00:08:11.278
+being linked to it, they
+will be linked in a chain.
+
+75
+00:08:20.083 --> 00:08:23.295
+Now we have to work on acceleration.
+
+76
+00:08:31.338 --> 00:08:33.833
+We give it a very smooth deceleration.
+
+77
+00:08:45.800 --> 00:08:49.160
+There we see that by
+linking the two movements
+
+78
+00:08:49.170 --> 00:08:53.205
+We already have a simulation
+of that volumetric movement.
+
+79
+00:08:53.418 --> 00:08:56.143
+Maybe we can tilt
+our face a little more.
+
+80
+00:09:12.475 --> 00:09:15.268
+Remember that sometimes
+when adding new keyframes,
+
+81
+00:09:15.268 --> 00:09:18.718
+If that position was not
+animated, it will generate new curves.
+
+82
+00:09:28.640 --> 00:09:32.488
+We will continue to encourage the
+hair to give it a little more life.
+
+83
+00:10:13.128 --> 00:10:15.760
+Let's give it a little bounce up
+
+84
+00:10:15.760 --> 00:10:18.643
+and for the opposite
+side from which we come.
+
+85
+00:10:32.123 --> 00:10:34.990
+We can make it come a little lower.
+
+86
+00:10:39.560 --> 00:10:41.758
+There is a little more exaggerated.
+
+87
+00:10:41.760 --> 00:10:43.960
+Let's see how the transition works.
+
+88
+00:10:50.200 --> 00:10:51.537
+Well, pretty good.

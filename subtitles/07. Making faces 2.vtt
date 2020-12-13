@@ -1,0 +1,411 @@
+WEBVTT
+
+1
+00:00:04.660 --> 00:00:08.500
+Making faces
+
+2
+00:00:10.753 --> 00:00:14.020
+Now let's cheer up your face a
+little to give it expressiveness.
+
+3
+00:00:59.960 --> 00:01:02.600
+Now let's see if we can make it blink.
+
+4
+00:01:02.600 --> 00:01:07.080
+We are going to move all the nodes of
+the eye, except those of the pupil ...
+
+5
+00:01:11.635 --> 00:01:13.980
+until we have just one line left.
+
+6
+00:01:52.200 --> 00:01:55.660
+We must try to make all the
+poses we encourage look good.
+
+7
+00:01:55.660 --> 00:01:58.540
+In the event that our
+character is blinking,
+
+8
+00:01:58.540 --> 00:02:00.980
+we must try to make
+that drawing look good,
+
+9
+00:02:00.980 --> 00:02:02.940
+beyond whether it
+will look fast or not,
+
+10
+00:02:02.940 --> 00:02:07.020
+because generally that animation
+is something that goes very fast.
+
+11
+00:02:07.020 --> 00:02:09.700
+We must try to make it work well.
+
+12
+00:02:19.178 --> 00:02:21.900
+The moment the eyes open,
+
+13
+00:02:21.900 --> 00:02:27.148
+we can enlarge the shape of the
+eye a little, a little down ...
+
+14
+00:02:29.050 --> 00:02:31.163
+and this, which
+would be like eyelashes,
+
+15
+00:02:32.185 --> 00:02:33.500
+A little up.
+
+16
+00:02:33.500 --> 00:02:36.620
+This will give you a small
+bounce when you open your eyes.
+
+17
+00:02:43.400 --> 00:02:45.180
+Let's make it very short.
+
+18
+00:02:47.950 --> 00:02:51.620
+Finally the movement in
+which it closes has to be shorter
+
+19
+00:02:51.620 --> 00:02:53.440
+than in the one that opens.
+
+20
+00:02:55.288 --> 00:02:58.380
+There it went well and then
+we have to in a single frame,
+
+21
+00:02:58.380 --> 00:03:01.860
+the eyes close, then I
+doubled the keyframes
+
+22
+00:03:01.860 --> 00:03:04.900
+to keep them closed,
+they open in two frames,
+
+23
+00:03:04.900 --> 00:03:08.100
+those who have an
+acceleration towards the end
+
+24
+00:03:08.100 --> 00:03:10.580
+and, when they open,
+they open a little more
+
+25
+00:03:10.580 --> 00:03:14.140
+then rest in its final
+state with a small bounce.
+
+26
+00:03:14.140 --> 00:03:16.460
+Let's see how this looks on the scene.
+
+27
+00:03:21.045 --> 00:03:22.540
+I think it's pretty good.
+
+28
+00:03:22.540 --> 00:03:25.580
+The hair could have a
+little more customization,
+
+29
+00:03:25.580 --> 00:03:28.610
+I played a little with
+the scale and it shows.
+
+30
+00:03:28.610 --> 00:03:31.540
+It's good when that kind
+of object comes organic,
+
+31
+00:03:31.540 --> 00:03:37.140
+We are working them frame by
+frame, not so much using scale tools.
+
+32
+00:03:37.140 --> 00:03:38.980
+For now we will leave it like this
+
+33
+00:03:38.980 --> 00:03:44.143
+and we will continue with the
+movement of one face towards the other.
+
+34
+00:03:44.978 --> 00:03:48.980
+When we are going to animate a turn of the
+head, the normal thing is that our character
+
+35
+00:03:48.980 --> 00:03:51.220
+look a little down and close your eyes
+
+36
+00:03:51.220 --> 00:03:53.300
+in the movement where the head turns.
+
+37
+00:03:53.300 --> 00:03:54.980
+Then we will do that.
+
+38
+00:03:54.980 --> 00:03:58.220
+With this pose, we will
+reach a midpoint of transition
+
+39
+00:03:58.220 --> 00:04:01.180
+and then we will
+continue with these layers.
+
+40
+00:04:01.180 --> 00:04:05.260
+So now we are going to select all
+the keyframes that we have animated
+
+41
+00:04:05.260 --> 00:04:09.460
+and we place a new one so that
+everyone starts moving from there.
+
+42
+00:04:09.460 --> 00:04:12.020
+Let's generate the new pose,
+
+43
+00:04:12.020 --> 00:04:15.460
+which is a bit looking down
+and with your eyes closed.
+
+44
+00:04:20.740 --> 00:04:23.140
+The ear is going to
+be almost straight,
+
+45
+00:04:23.140 --> 00:04:25.335
+so, perhaps, almost not even seen.
+
+46
+00:04:29.723 --> 00:04:34.540
+We are going to take the head to a
+way that is as frontal as we can.
+
+47
+00:04:41.620 --> 00:04:45.180
+For now we will not consider
+communication with the torso,
+
+48
+00:04:45.180 --> 00:04:47.820
+We are simply going
+to make a head head.
+
+49
+00:05:02.740 --> 00:05:05.785
+Now the face, we will
+have to deform it completely
+
+50
+00:05:05.785 --> 00:05:08.340
+because we are going to
+simulate the curvature it has.
+
+51
+00:05:35.878 --> 00:05:38.180
+The nose will become almost frontal.
+
+52
+00:05:42.563 --> 00:05:45.380
+The pupil will look
+straight ahead and slightly down.
+
+53
+00:05:51.480 --> 00:05:54.660
+The mouth actually has
+to straighten a little.
+
+54
+00:05:54.660 --> 00:05:58.100
+This we had, which was
+like the lip behind it,
+
+55
+00:05:58.100 --> 00:06:00.140
+It has to line up.
+
+56
+00:06:05.993 --> 00:06:08.825
+There we know that it gives
+us the feeling of rotation
+
+57
+00:06:08.825 --> 00:06:12.500
+but, at the same time, we are
+going to make our character blink.
+
+58
+00:06:29.933 --> 00:06:33.260
+I will try to make both
+eyes as symmetrical as I can,
+
+59
+00:06:33.260 --> 00:06:35.420
+although they are
+not exactly the same.
+
+60
+00:06:39.128 --> 00:06:42.020
+Meanwhile, we will
+correct the hair a bit.
+
+61
+00:06:56.008 --> 00:06:57.980
+The face will fall in a moment
+
+62
+00:06:57.980 --> 00:07:01.500
+and the head, with his
+chin and everything, too.
+
+63
+00:07:13.445 --> 00:07:16.140
+We will take all
+accelerations to linear,
+
+64
+00:07:16.140 --> 00:07:19.620
+since it is the midpoint of
+transition between one pose and another.
+
+65
+00:07:31.500 --> 00:07:35.300
+When the face leans forward, the
+things that stand out the most,
+
+66
+00:07:35.300 --> 00:07:37.980
+like the nose, it has
+to go down a little more
+
+67
+00:07:37.980 --> 00:07:41.660
+and the mouth can go up a
+bit to counteract that movement
+
+68
+00:07:41.660 --> 00:07:43.980
+and give it a little more depth.
+
+69
+00:07:53.668 --> 00:07:56.180
+The ear will disappear completely.
+
+70
+00:08:03.363 --> 00:08:05.900
+It's going well but it
+was a bit off center.
+
+71
+00:08:05.900 --> 00:08:09.733
+Let's keep making the effort to
+keep it a bit more symmetrical.
+
+72
+00:08:15.000 --> 00:08:20.260
+We can't make the ear disappear
+completely because it has that stroke,
+
+73
+00:08:20.260 --> 00:08:26.260
+We can find the group of the ear
+and apply an opacity to the stroke.
+
+74
+00:08:26.260 --> 00:08:29.060
+We do it very short so
+you don't notice a "fade"
+
+75
+00:08:29.060 --> 00:08:32.743
+but, so that at the moment where it
+is closed, the ear does not exist.
+
+76
+00:08:36.703 --> 00:08:39.080
+Now we have to accommodate this.
+
+77
+00:08:44.118 --> 00:08:47.260
+I think we can lower
+our heads a little more.
+
+78
+00:08:54.590 --> 00:08:58.060
+For now it's fine, we're going
+to play with the accelerations
+
+79
+00:08:58.060 --> 00:09:00.580
+when we have the other
+half of the animation.
+
+80
+00:09:00.580 --> 00:09:04.020
+With this part of the
+face, we will do the same
+
+81
+00:09:04.020 --> 00:09:07.013
+but in the opposite
+direction, we will end with this pose
+
+82
+00:09:07.013 --> 00:09:10.660
+and the first one I
+will do will be centered.
+
+83
+00:11:14.688 --> 00:11:17.998
+To the eyebrows we want to
+give an expression of surprise,
+
+84
+00:11:17.998 --> 00:11:19.860
+let's make them appear
+
+85
+00:11:19.860 --> 00:11:22.620
+with a little more
+concentration at the beginning,
+
+86
+00:11:22.620 --> 00:11:25.060
+so then they rise more strongly.
+
+87
+00:11:44.140 --> 00:11:45.180
+There is good.

@@ -1,0 +1,789 @@
+WEBVTT
+
+1
+00:00:04.560 --> 00:00:08.500
+First steps
+
+2
+00:00:11.218 --> 00:00:15.420
+We can already review some
+details, for example, see if this line
+
+3
+00:00:15.420 --> 00:00:19.298
+that we were using to
+separate the legs, is correctly.
+
+4
+00:00:31.960 --> 00:00:33.560
+For now I think it's fine,
+
+5
+00:00:33.580 --> 00:00:36.380
+let's see how it looks in
+the general composition.
+
+6
+00:00:41.740 --> 00:00:45.940
+I think that up to that point is going
+well, what we need is that, in a moment,
+
+7
+00:00:45.940 --> 00:00:48.620
+the rope appears alone
+before the character,
+
+8
+00:00:48.620 --> 00:00:52.060
+This gives us an anticipation
+that something will happen there.
+
+9
+00:00:52.080 --> 00:00:55.280
+For this, we may have
+to extend the comp a bit
+
+10
+00:00:55.320 --> 00:00:59.280
+towards one of the sides, that is,
+add a little time at the beginning.
+
+11
+00:00:59.280 --> 00:01:01.560
+Then I do all this.
+
+12
+00:01:03.090 --> 00:01:05.860
+Let's take the rope to the beginning.
+
+13
+00:01:05.860 --> 00:01:08.980
+For now I don't worry much
+if it matches the animatic
+
+14
+00:01:08.980 --> 00:01:13.008
+or with the times we had in mind,
+we will adjust them little by little.
+
+15
+00:01:21.203 --> 00:01:26.380
+For the rope to fall, we will do the
+same, which is to animate the Path.
+
+16
+00:01:27.865 --> 00:01:30.300
+In this case we have two nodes,
+
+17
+00:01:30.300 --> 00:01:34.420
+so if we want to make
+the rope have a curve,
+
+18
+00:01:34.420 --> 00:01:36.980
+maybe we are going to
+have to add some nodes.
+
+19
+00:01:36.980 --> 00:01:40.420
+This is better if we do it
+in the original form, say,
+
+20
+00:01:40.420 --> 00:01:42.460
+which in this case
+would be the straight.
+
+21
+00:01:42.460 --> 00:01:48.180
+So we can anticipate that we
+will need nodes to animate the rope.
+
+22
+00:01:48.180 --> 00:01:50.820
+In this case, as we know that the rope
+
+23
+00:01:50.820 --> 00:01:53.860
+it will be animated in a
+curved and organic way,
+
+24
+00:01:53.860 --> 00:01:59.140
+what we can do is
+give it some curvature
+
+25
+00:01:59.140 --> 00:02:02.180
+to these Bézier nodes,
+even if they are straight,
+
+26
+00:02:02.180 --> 00:02:04.180
+but we'll see why.
+
+27
+00:02:07.248 --> 00:02:11.540
+If we already gave that
+curvature now, when we move the nodes,
+
+28
+00:02:11.540 --> 00:02:14.563
+It will maintain that
+curvature we gave it.
+
+29
+00:02:16.540 --> 00:02:18.860
+That is going to make him more softly.
+
+30
+00:02:18.860 --> 00:02:22.020
+In this case I am
+doing a little backwards
+
+31
+00:02:22.020 --> 00:02:24.900
+and having the final
+position, which is this,
+
+32
+00:02:24.900 --> 00:02:28.060
+I'm going to start adding
+details to the animation,
+
+33
+00:02:28.060 --> 00:02:30.620
+giving a little bounce to the sides.
+
+34
+00:02:31.788 --> 00:02:35.458
+At the beginning we will
+make it fall from above.
+
+35
+00:02:47.533 --> 00:02:52.100
+When we interpolate
+between very large distances,
+
+36
+00:02:52.100 --> 00:02:55.980
+as here it makes a curve and
+then goes to the other end,
+
+37
+00:02:55.980 --> 00:02:58.563
+we have to add intermediate frames
+
+38
+00:02:58.563 --> 00:03:01.900
+I call this when he starts
+making almost frame by frame.
+
+39
+00:03:20.018 --> 00:03:22.020
+Well, it looks pretty good there.
+
+40
+00:03:22.020 --> 00:03:25.260
+Thanks to the fact that we add
+these intermediate keyframes,
+
+41
+00:03:25.260 --> 00:03:27.860
+the transitions are
+now a bit more neat.
+
+42
+00:03:27.860 --> 00:03:32.140
+Now we see that every time we extend
+this time, it will add more interpolation,
+
+43
+00:03:32.140 --> 00:03:36.203
+Then maybe it is necessary to
+add other intermediate keyframes.
+
+44
+00:03:37.100 --> 00:03:40.820
+Let's keep in mind that every
+time we add intermediate keyframes,
+
+45
+00:03:40.820 --> 00:03:44.540
+the hands of our Bézier nodes
+are sometimes reset at an angle.
+
+46
+00:03:44.540 --> 00:03:47.300
+So, with the Pen and Alt,
+
+47
+00:03:47.300 --> 00:03:50.780
+We have to restart them
+so that they are straight.
+
+48
+00:04:00.420 --> 00:04:01.860
+Let's see how it looks.
+
+49
+00:04:04.435 --> 00:04:05.500
+It is going well.
+
+50
+00:04:05.500 --> 00:04:09.730
+We need to lower a
+little more and throw.
+
+51
+00:04:09.730 --> 00:04:13.353
+I am already seeing from the
+outset that we are going to lack time.
+
+52
+00:04:24.250 --> 00:04:26.180
+Let's move this a little over there
+
+53
+00:04:26.180 --> 00:04:29.060
+and we will continue
+adding detail to the character
+
+54
+00:04:29.060 --> 00:04:30.700
+the moment he goes down.
+
+55
+00:04:33.438 --> 00:04:37.340
+We have animated here and now, the
+second movement when it comes down
+
+56
+00:04:37.340 --> 00:04:43.300
+it may have, or starts to
+move, a small delay or drag.
+
+57
+00:04:43.300 --> 00:04:48.780
+I will duplicate these frames and
+I will duplicate them at the end
+
+58
+00:04:48.780 --> 00:04:52.293
+to keep them as a
+reference in the ideal position.
+
+59
+00:04:52.293 --> 00:04:56.473
+And as soon as it starts to
+move, we will give it some drag.
+
+60
+00:05:09.103 --> 00:05:12.940
+When it goes down, instead of more
+vertical bouncing than we did recently,
+
+61
+00:05:12.940 --> 00:05:17.180
+Now I will see if I add
+a little more balancing.
+
+62
+00:05:17.180 --> 00:05:19.980
+It is always important
+that, if possible, we add
+
+63
+00:05:19.980 --> 00:05:22.540
+what we already saw in
+the principles of animation,
+
+64
+00:05:22.560 --> 00:05:25.480
+A little anticipation, a
+little "follow-through"
+
+65
+00:05:25.520 --> 00:05:28.200
+"overlapping," or whatever you do
+
+66
+00:05:28.220 --> 00:05:30.700
+that gives more
+inertia to our movements.
+
+67
+00:05:54.150 --> 00:05:58.180
+If I eliminate this, I think
+it looks a little more fluid.
+
+68
+00:05:58.180 --> 00:06:01.620
+What it does is that the
+previous final position is connecting me
+
+69
+00:06:01.620 --> 00:06:05.100
+and start moving
+before the body goes down.
+
+70
+00:06:05.100 --> 00:06:08.980
+Then it is as it gives
+a more organic swing,
+
+71
+00:06:08.980 --> 00:06:12.740
+which helps you gain momentum to
+get off, in that case it was fine.
+
+72
+00:06:12.740 --> 00:06:14.820
+That is what I meant
+by trial and error.
+
+73
+00:06:14.820 --> 00:06:17.780
+There are times that we add
+keyframes that in the end we delete
+
+74
+00:06:17.780 --> 00:06:19.180
+and they look better without it.
+
+75
+00:06:22.500 --> 00:06:25.460
+Let's see with this leg if
+we will do something similar.
+
+76
+00:06:35.250 --> 00:06:40.020
+When I use this transformation box,
+I try to move the anchor to the point
+
+77
+00:06:40.020 --> 00:06:43.780
+where I imagine the joint is, in
+this case it would be the knee,
+
+78
+00:06:43.780 --> 00:06:48.020
+but not only the tip of the
+knee, but the point where I imagine
+
+79
+00:06:48.020 --> 00:06:52.700
+that match the bones, in
+this case it would be there,
+
+80
+00:06:52.700 --> 00:06:54.860
+And we can take as a guide.
+
+81
+00:06:54.860 --> 00:06:59.460
+Imagine that the whole joint is
+a circle, something like that,
+
+82
+00:06:59.460 --> 00:07:03.220
+according to the shape of our
+character, then the center of that circle
+
+83
+00:07:03.220 --> 00:07:08.340
+It will be approximately where
+we will have to locate our joint.
+
+84
+00:07:24.960 --> 00:07:28.305
+It's going pretty well, but
+your feet are too synchronized,
+
+85
+00:07:28.305 --> 00:07:30.580
+Then I will try to offset this a bit.
+
+86
+00:07:38.450 --> 00:07:40.060
+I think it's going pretty well.
+
+87
+00:07:46.020 --> 00:07:48.740
+We said that, with this
+design, we had the problem
+
+88
+00:07:48.740 --> 00:07:51.300
+that the rope passed
+in front of the hand.
+
+89
+00:07:51.300 --> 00:07:55.220
+I realize that, at this moment,
+it will not represent any problem,
+
+90
+00:07:55.220 --> 00:07:57.340
+since that part will never be seen.
+
+91
+00:07:57.340 --> 00:08:00.900
+Anyway, it's always good to
+work the complete designs,
+
+92
+00:08:00.900 --> 00:08:03.540
+as we did with the
+face, in case at some point
+
+93
+00:08:03.540 --> 00:08:04.980
+we decided to make decisions,
+
+94
+00:08:04.980 --> 00:08:09.020
+that we may have to use
+some parts of that design.
+
+95
+00:08:11.480 --> 00:08:12.680
+Let's see how it goes.
+
+96
+00:08:19.038 --> 00:08:20.805
+Let's expand this a bit.
+
+97
+00:08:31.345 --> 00:08:34.780
+It takes a little time to jump.
+
+98
+00:08:34.780 --> 00:08:37.778
+We are going to add it here
+and we will make it match.
+
+99
+00:08:37.778 --> 00:08:41.913
+Then at the time of jumping,
+I imagine that the character
+
+100
+00:08:41.913 --> 00:08:45.023
+release your hands, that is,
+separate them from the rope
+
+101
+00:08:45.023 --> 00:08:49.900
+and straighten the feet to fall
+straight into the final position.
+
+102
+00:08:49.900 --> 00:08:53.340
+I will expand the work
+area a little down and up
+
+103
+00:08:53.340 --> 00:08:57.900
+to have more vertical space,
+above I am not interested but below.
+
+104
+00:08:57.900 --> 00:09:00.820
+The good thing is that we
+continue to maintain the position,
+
+105
+00:09:00.820 --> 00:09:05.620
+The way in which this character is
+located does not alter us at all.
+
+106
+00:09:05.620 --> 00:09:08.180
+Then we have more work area.
+
+107
+00:09:09.983 --> 00:09:14.140
+We will locate a
+little more advanced in time
+
+108
+00:09:14.140 --> 00:09:16.995
+the pose we would like
+to see of our character.
+
+109
+00:09:18.573 --> 00:09:20.700
+Let's straighten the legs.
+
+110
+00:09:29.463 --> 00:09:34.060
+I will do the capture again to
+have as a reference, Shift + F5.
+
+111
+00:09:36.860 --> 00:09:42.860
+This reference helps us to know
+if we are conserving the volumes,
+
+112
+00:09:42.860 --> 00:09:48.040
+which is what we find very
+important in this type of animation.
+
+113
+00:09:50.740 --> 00:09:54.020
+In our design, the
+character, having straight legs,
+
+114
+00:09:54.020 --> 00:09:59.540
+you don't notice any knee
+or muscle here in the twin,
+
+115
+00:09:59.540 --> 00:10:02.715
+then let's turn it all straight.
+
+116
+00:10:14.800 --> 00:10:19.060
+We will adjust this line and we
+will continue with the other leg.
+
+117
+00:10:35.260 --> 00:10:38.140
+The moment both legs are stretched,
+
+118
+00:10:38.140 --> 00:10:41.933
+They must be about the same
+length and we adjust that.
+
+119
+00:10:53.000 --> 00:10:56.700
+We're going to deform the boot a
+little and make the cue point down,
+
+120
+00:10:56.700 --> 00:10:59.140
+to give it more directionality.
+
+121
+00:11:14.463 --> 00:11:19.223
+Now that the leg is more forward, I
+will reduce the perspective of the boot.
+
+122
+00:11:20.360 --> 00:11:22.880
+Remember that this
+is in all the details.
+
+123
+00:11:22.880 --> 00:11:27.400
+As they correct that
+kind of thing ... great.
+
+124
+00:11:29.950 --> 00:11:35.780
+Also avoid that the Bézier curves
+are with the short or straight arms.
+
+125
+00:11:35.780 --> 00:11:38.220
+For a type of object
+that is quite curved,
+
+126
+00:11:38.220 --> 00:11:41.540
+we have to keep as
+long as we can the hands,
+
+127
+00:11:41.540 --> 00:11:43.540
+thus it moves more smoothly.
+
+128
+00:11:45.113 --> 00:11:47.180
+This is something
+more or less similar.
+
+129
+00:11:47.200 --> 00:11:50.200
+to what would be the
+"pose to pose" methodology
+
+130
+00:11:50.220 --> 00:11:53.940
+in traditional animation, in
+which we do the keyframes first
+
+131
+00:11:53.960 --> 00:11:56.960
+and then the "in-betweens",
+"breakdowns" and "in-betweens"
+
+132
+00:11:56.980 --> 00:12:00.420
+because, in this case,
+this would be a keyframe,
+
+133
+00:12:00.420 --> 00:12:03.460
+although I still think he
+has some things to adjust.
+
+134
+00:12:12.465 --> 00:12:17.380
+This would be the keyframe
+and what we have to do now is
+
+135
+00:12:17.400 --> 00:12:19.800
+do the "breakdowns"
+and the "in-between",
+
+136
+00:12:19.800 --> 00:12:21.520
+that is, the intermediate tables,
+
+137
+00:12:21.520 --> 00:12:25.760
+that in this case we don't have to do
+them because After Effects already made them,
+
+138
+00:12:25.780 --> 00:12:30.060
+but we will have to
+correct them because many times
+
+139
+00:12:30.060 --> 00:12:33.940
+the interpolations he does
+are not exactly as we want,
+
+140
+00:12:33.940 --> 00:12:36.100
+We have to add details.
+
+141
+00:12:37.193 --> 00:12:41.620
+Before that, let's see if
+the animation is as we want,
+
+142
+00:12:41.620 --> 00:12:46.088
+with respect to main poses,
+position and that kind of thing.
+
+143
+00:12:47.620 --> 00:12:52.780
+We are going to cheer up the torso, we
+will give a straight acceleration to all this
+
+144
+00:12:52.780 --> 00:12:57.140
+and we are going to make our
+character fall almost to the floor,
+
+145
+00:12:57.140 --> 00:13:01.460
+We are going to take
+this scene as a reference.
+
+146
+00:13:01.460 --> 00:13:03.740
+Let's hide this for now
+
+147
+00:13:03.740 --> 00:13:06.340
+Well, time is extending a bit.
+
+148
+00:13:07.193 --> 00:13:09.540
+We can make it go down maybe there.
+
+149
+00:13:10.955 --> 00:13:12.900
+I will extend this scene a bit.
+
+150
+00:13:15.413 --> 00:13:17.940
+Suddenly, our character will fall.
+
+151
+00:13:17.945 --> 00:13:20.615
+No need to be in
+contact with the floor,
+
+152
+00:13:20.615 --> 00:13:24.740
+because the character will jump and we
+want him to have a stronger acceleration.
+
+153
+00:13:27.580 --> 00:13:31.620
+Maybe the pose can
+be preparing before,
+
+154
+00:13:31.620 --> 00:13:34.850
+but we can exaggerate the
+vertical movement a bit.
+
+155
+00:13:35.900 --> 00:13:37.060
+Something like that.
+
+156
+00:13:43.858 --> 00:13:46.380
+I don't know if everything
+should be a little faster.
+
+157
+00:13:48.270 --> 00:13:49.460
+There goes well.
+
+158
+00:13:49.460 --> 00:13:53.580
+At the moment we
+have our last keyframe,
+
+159
+00:13:53.580 --> 00:13:57.820
+let's cut that layer and
+let's move on to the next one,
+
+160
+00:13:57.820 --> 00:14:00.860
+in which we will work the
+transition with this pose.
+
+161
+00:14:03.108 --> 00:14:06.420
+Something that we are missing
+here is the animation of the arms.
+
+162
+00:14:07.448 --> 00:14:09.820
+Since we don't have
+them animated so far,
+
+163
+00:14:09.820 --> 00:14:13.463
+we have to add the
+keyframes in the Path
+
+164
+00:14:13.463 --> 00:14:15.620
+and we are going to move all this.
+
+165
+00:14:34.593 --> 00:14:38.580
+It doesn't have to be perfect because
+we will see this picture very quickly,
+
+166
+00:14:38.580 --> 00:14:43.140
+but we are interested in
+seeing that the arms are opening.

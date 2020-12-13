@@ -1,0 +1,756 @@
+WEBVTT
+
+1
+00:00:04.680 --> 00:00:08.423
+Action
+
+2
+00:00:10.263 --> 00:00:13.378
+Many times, when we
+think an animation is ready
+
+3
+00:00:13.378 --> 00:00:18.370
+We see her again later and there are
+details that can be corrected or improved.
+
+4
+00:00:18.950 --> 00:00:22.807
+That is why I will show you details
+that I adjusted in this camera shot
+
+5
+00:00:22.807 --> 00:00:24.568
+to take them into account.
+
+6
+00:00:24.568 --> 00:00:28.655
+First I adjusted the time a
+little by shortening the first movement
+
+7
+00:00:28.655 --> 00:00:32.580
+so that they are only three
+frames to make it very impressive.
+
+8
+00:00:32.580 --> 00:00:38.363
+I left space at the beginning
+before entering the boot in the shot,
+
+9
+00:00:38.363 --> 00:00:41.905
+and I adjusted the end time
+also so that it comes out faster.
+
+10
+00:00:42.333 --> 00:00:46.838
+Then I added some
+secondary action to the strings
+
+11
+00:00:46.838 --> 00:00:48.723
+to give them a little bounce,
+
+12
+00:00:48.810 --> 00:00:51.690
+which is very subtle
+but adds a little life.
+
+13
+00:00:51.783 --> 00:00:54.338
+Finally, the Posterize layer
+
+14
+00:00:54.338 --> 00:00:57.658
+where I pass some parts of
+the animation to 12 frames.
+
+15
+00:00:58.028 --> 00:01:01.587
+Here we see the curve where
+I left the first part in 24
+
+16
+00:01:01.587 --> 00:01:06.498
+to see all the movements of
+the first frame, which is fast,
+
+17
+00:01:06.528 --> 00:01:08.175
+and once he makes contact
+
+18
+00:01:08.175 --> 00:01:11.080
+I passed it to 12 to
+limit this animation a bit.
+
+19
+00:01:11.750 --> 00:01:15.178
+Finally, I returned to 24 at
+the time the boot is removed.
+
+20
+00:01:15.178 --> 00:01:17.903
+And so time was a little tighter
+
+21
+00:01:17.903 --> 00:01:20.788
+and the boot movement
+a little bit more neat.
+
+22
+00:01:20.830 --> 00:01:25.148
+Now we go with the next shot,
+which is this one of the pirouette.
+
+23
+00:01:25.148 --> 00:01:30.950
+This shot presents a very big challenge,
+that of bringing this pose to the standing pose.
+
+24
+00:01:31.278 --> 00:01:35.388
+For that, first we are going to
+unlink our layers of the camera null
+
+25
+00:01:35.388 --> 00:01:39.358
+so as not to worry about the
+horizontal camera movement for now.
+
+26
+00:01:39.523 --> 00:01:42.750
+We will simply carry a pose
+from one place to another.
+
+27
+00:01:44.095 --> 00:01:48.855
+When we meet an instance
+in which we face a challenge
+
+28
+00:01:48.855 --> 00:01:50.133
+here of the animation,
+
+29
+00:01:50.133 --> 00:01:51.943
+we can go back to the drawing
+
+30
+00:01:51.943 --> 00:01:57.078
+to generate references that serve as
+an intermediate for the transition.
+
+31
+00:01:57.353 --> 00:02:00.583
+In this case, what I did
+was, back in Photoshop,
+
+32
+00:02:00.583 --> 00:02:03.183
+open the sketches of our poses
+
+33
+00:02:03.183 --> 00:02:06.440
+and I left the two poses that
+we already have as a reference.
+
+34
+00:02:06.618 --> 00:02:10.562
+Then I started to sketch some
+ideas of how the transition can be.
+
+35
+00:02:10.820 --> 00:02:13.770
+I also did this with
+the help of a reference,
+
+36
+00:02:13.770 --> 00:02:19.502
+I searched online for "aerial cartwheel",
+which would be like this kind of pirouette
+
+37
+00:02:19.502 --> 00:02:22.320
+which is not exactly
+what we are going to do
+
+38
+00:02:22.320 --> 00:02:26.843
+but it serves me equally as a
+reference to see how the legs move.
+
+39
+00:02:27.190 --> 00:02:32.390
+Our pirouette, being a pretty
+fancy animation, so to speak,
+
+40
+00:02:32.390 --> 00:02:34.343
+It's not a very real pirouette,
+
+41
+00:02:34.458 --> 00:02:38.787
+then we don't need to rely on a
+movement that is too realistic
+
+42
+00:02:38.787 --> 00:02:42.818
+but it still helps us understand how to
+move things from one place to another.
+
+43
+00:02:43.235 --> 00:02:47.508
+In this case, it helped me to
+understand that at the time of final support
+
+44
+00:02:47.508 --> 00:02:51.478
+First one leg is fully
+supported while the other is opposite.
+
+45
+00:02:51.943 --> 00:02:54.915
+I figured that in the
+transition between these two poses
+
+46
+00:02:54.915 --> 00:02:58.768
+the intermediate position can be in
+which one foot is already going down
+
+47
+00:02:58.768 --> 00:03:02.350
+to lean on the floor while
+the other is still straight.
+
+48
+00:03:02.833 --> 00:03:05.585
+Finally I added a very easy pose,
+
+49
+00:03:05.585 --> 00:03:08.533
+the moment when the
+character leans on the floor.
+
+50
+00:03:08.533 --> 00:03:11.358
+It would be like a kind of
+Overlapping, or Overshoot,
+
+51
+00:03:11.358 --> 00:03:14.587
+let's say, where the character,
+with all the strength that comes,
+
+52
+00:03:14.587 --> 00:03:18.197
+You have to sit on the floor
+for a moment and then stand up.
+
+53
+00:03:18.197 --> 00:03:19.968
+I just flexed my legs.
+
+54
+00:03:19.968 --> 00:03:24.595
+For now, I think that with these two
+poses we already have at least one idea
+
+55
+00:03:24.595 --> 00:03:26.960
+of how we are going
+to move our character.
+
+56
+00:03:27.143 --> 00:03:30.148
+In this instance where
+we make support drawings,
+
+57
+00:03:30.148 --> 00:03:33.575
+the sketches can be even more sloppy
+
+58
+00:03:33.575 --> 00:03:37.168
+that at the beginning, because
+we are simply helping each other
+
+59
+00:03:37.168 --> 00:03:39.772
+Get an idea of how to locate things.
+
+60
+00:03:39.772 --> 00:03:43.468
+It is not necessarily a
+figure that we are going to copy.
+
+61
+00:03:43.468 --> 00:03:47.353
+So just drawing some
+lines should be enough.
+
+62
+00:03:47.668 --> 00:03:51.545
+I'm going to export this just
+for reference in After Effects.
+
+63
+00:03:52.173 --> 00:03:57.305
+Already in After Effects, I imported
+the image we just exported from Photoshop
+
+64
+00:03:57.305 --> 00:04:02.158
+and we place it where it has to go
+and we will have it as a reference.
+
+65
+00:04:02.645 --> 00:04:04.328
+So it is a guiding layer.
+
+66
+00:04:05.338 --> 00:04:08.038
+Let's leave it
+there, very transparent,
+
+67
+00:04:08.038 --> 00:04:11.260
+because it is a reference
+that has to be very smooth.
+
+68
+00:04:12.398 --> 00:04:15.255
+And we will start with the
+animation of the pirouette.
+
+69
+00:04:15.788 --> 00:04:18.133
+In this case, again we will extract
+
+70
+00:04:18.133 --> 00:04:20.525
+all layers of our pose,
+
+71
+00:04:20.525 --> 00:04:25.175
+since in this precomp they are
+bottomless and without much reference.
+
+72
+00:04:25.175 --> 00:04:28.745
+We will use the
+Un-PreCompose plugin again.
+
+73
+00:04:29.488 --> 00:04:31.393
+And we will extract the layers.
+
+74
+00:04:31.400 --> 00:04:33.800
+We remove the
+Controller, which is not necessary,
+
+75
+00:04:33.800 --> 00:04:36.500
+and we have our
+character in these three layers.
+
+76
+00:04:38.543 --> 00:04:43.073
+Again we convert it to a vector,
+luckily this time they are few layers.
+
+77
+00:04:51.173 --> 00:04:53.868
+This for now we
+eliminate, not to confuse.
+
+78
+00:04:54.680 --> 00:04:58.118
+Here we want our character
+to be doing the pirouette
+
+79
+00:04:58.118 --> 00:05:01.670
+around the diamond,
+then we will add a null
+
+80
+00:05:02.040 --> 00:05:06.397
+It will be centered on the
+diamond, at least approximately.
+
+81
+00:05:08.565 --> 00:05:11.840
+And we are going to link
+our character to that null.
+
+82
+00:05:12.815 --> 00:05:14.070
+Null Pirouette.
+
+83
+00:05:14.070 --> 00:05:18.225
+Because in this scene I imagine
+the character doing such a rotation.
+
+84
+00:05:18.528 --> 00:05:20.500
+So that kind of thing
+
+85
+00:05:20.500 --> 00:05:24.022
+no need to make them
+directly on all vector layers,
+
+86
+00:05:24.022 --> 00:05:27.505
+because you have to work a
+lot in intermediate transitions.
+
+87
+00:05:27.505 --> 00:05:31.113
+We take advantage of this kind of
+very simple rotation of After Effects
+
+88
+00:05:31.113 --> 00:05:32.838
+to have it as a base.
+
+89
+00:05:35.338 --> 00:05:38.657
+We will make such a movement,
+as it comes from this point.
+
+90
+00:05:40.120 --> 00:05:43.628
+Go through the central point,
+which we have already designed.
+
+91
+00:05:44.418 --> 00:05:46.522
+And it comes more or less here.
+
+92
+00:05:47.828 --> 00:05:51.693
+We still do not know how long it
+will last, we will adjust times.
+
+93
+00:05:52.498 --> 00:05:57.048
+But I can imagine that
+it can start quite quickly
+
+94
+00:05:57.048 --> 00:05:59.833
+and then have a
+fairly linear movement.
+
+95
+00:05:59.833 --> 00:06:04.278
+I imagine that in this
+scene we can keep a movement
+
+96
+00:06:04.278 --> 00:06:07.543
+slow motion in this part,
+
+97
+00:06:07.543 --> 00:06:11.498
+and when the character
+falls back to normal speed.
+
+98
+00:06:12.348 --> 00:06:16.853
+There we see that at least a
+little animation we are already adding.
+
+99
+00:06:16.853 --> 00:06:21.098
+This is still very raw, but
+we will see previous scenes
+
+100
+00:06:21.098 --> 00:06:23.635
+If that kind of movement works.
+
+101
+00:06:30.768 --> 00:06:34.523
+I think it's pretty good, I think
+the fact of having this momentum
+
+102
+00:06:34.523 --> 00:06:36.288
+up to the left
+
+103
+00:06:36.288 --> 00:06:38.470
+It helps us connect with this moment
+
+104
+00:06:38.470 --> 00:06:43.303
+as if this foot we see
+here is this foot we see here.
+
+105
+00:06:43.880 --> 00:06:47.783
+That movement, which also
+continues up to the left,
+
+106
+00:06:47.783 --> 00:06:49.940
+It helps us connect the two scenes.
+
+107
+00:06:52.333 --> 00:06:57.157
+Now it is simply to adjust the poses
+by animating the Paths to add detail.
+
+108
+00:07:03.695 --> 00:07:07.938
+By the way, this depends on the keyboard
+but there is a little button next to the 1
+
+109
+00:07:07.938 --> 00:07:10.398
+which in my case has a tilde,
+
+110
+00:07:10.398 --> 00:07:14.610
+which is what makes us
+expand any of the panels
+
+111
+00:07:14.610 --> 00:07:16.368
+We want from the interface.
+
+112
+00:07:17.248 --> 00:07:20.918
+It's the same as double
+clicking on the tab, for example.
+
+113
+00:07:21.428 --> 00:07:25.825
+That helps us when we have to
+do some work only in a panel.
+
+114
+00:07:26.258 --> 00:07:31.442
+These keyframes that we have already
+defined will fix them in the intermediate pose,
+
+115
+00:07:31.442 --> 00:07:33.760
+The one we designed in our styleframe.
+
+116
+00:07:33.765 --> 00:07:36.798
+We are going to adjust a
+previous pose and a later pose.
+
+117
+00:07:36.798 --> 00:07:40.793
+The posterior pose may be
+similar to the reference we made.
+
+118
+00:07:41.233 --> 00:07:43.665
+So let's take that as a reference.
+
+119
+00:07:44.018 --> 00:07:46.735
+At first I don't care much about hair,
+
+120
+00:07:46.735 --> 00:07:51.498
+since being an appendix type
+element, that is, something that is added
+
+121
+00:07:52.792 --> 00:07:55.025
+to the main body,
+
+122
+00:07:55.025 --> 00:07:59.237
+It is the kind of elements that move
+with some inertia, with Overlapping.
+
+123
+00:07:59.320 --> 00:08:01.945
+We usually leave that for last.
+
+124
+00:08:02.223 --> 00:08:05.055
+I'm going to focus
+first on the legs, which are
+
+125
+00:08:05.055 --> 00:08:07.480
+The stars of this movement.
+
+126
+00:08:14.508 --> 00:08:18.663
+With this same object we
+will give it some rotation
+
+127
+00:08:18.663 --> 00:08:23.053
+to avoid having to do full leg
+rotation by moving the nodes.
+
+128
+00:08:23.260 --> 00:08:26.675
+We are going to
+locate the anchor here,
+
+129
+00:08:27.765 --> 00:08:31.613
+and I'm going to give it some
+rotation to help us in that movement.
+
+130
+00:08:31.613 --> 00:08:36.613
+What we are going to need now is
+to adjust the waist, let's say.
+
+131
+00:08:45.518 --> 00:08:48.545
+I will put the hair
+with some transparency
+
+132
+00:08:48.560 --> 00:08:50.440
+to draw from behind.
+
+133
+00:08:57.230 --> 00:09:02.108
+Again you have to do the
+thorough work of adjusting nodes.
+
+134
+00:09:11.695 --> 00:09:15.162
+It's going pretty well, but
+again we found the situation
+
+135
+00:09:15.162 --> 00:09:20.193
+that to rotate a part of
+the body only with nodes,
+
+136
+00:09:20.193 --> 00:09:24.300
+the volume is slightly deformed,
+so again it has to be compensated.
+
+137
+00:09:57.948 --> 00:09:59.343
+This is already taking shape.
+
+138
+00:09:59.923 --> 00:10:02.603
+You will have to adjust
+the speeds, of course.
+
+139
+00:10:04.915 --> 00:10:07.863
+In fact, we had placed
+this pose in the middle
+
+140
+00:10:07.863 --> 00:10:11.318
+but now that our
+movement has this acceleration,
+
+141
+00:10:11.318 --> 00:10:13.460
+The midpoint is more or less here.
+
+142
+00:10:15.525 --> 00:10:19.465
+So, all this has to happen
+almost from the beginning.
+
+143
+00:10:20.820 --> 00:10:23.797
+With Alt we can stretch the keyframes.
+
+144
+00:10:33.825 --> 00:10:37.073
+We are going to adjust
+some things of the pose again,
+
+145
+00:10:37.073 --> 00:10:38.757
+following with the legs.
+
+146
+00:10:50.238 --> 00:10:54.197
+This is pretty good,
+just adjust the times.
+
+147
+00:10:54.348 --> 00:10:59.423
+I calculated that this type of
+movement will have a kind of slow motion here,
+
+148
+00:10:59.423 --> 00:11:03.033
+but in the end, when the
+character is about to fall,
+
+149
+00:11:03.033 --> 00:11:05.518
+We will have a faster movement.
+
+150
+00:11:05.518 --> 00:11:10.940
+So let's put all this
+together and add a rotation here,
+
+151
+00:11:15.248 --> 00:11:20.025
+That will be when the
+acceleration increases again.
+
+152
+00:11:27.203 --> 00:11:31.275
+We will return the opacity to the
+hair and we will see how it looks.
+
+153
+00:11:47.265 --> 00:11:50.830
+I think for now it's pretty
+good, not counting that we're not
+
+154
+00:11:50.830 --> 00:11:52.235
+cheering hair
+
+155
+00:11:52.235 --> 00:11:55.880
+and also at this moment
+when our character falls
+
+156
+00:11:55.880 --> 00:11:58.250
+Go around that looks a bit weird.
+
+157
+00:11:58.898 --> 00:12:03.473
+Because here he is perfectly on his
+back and here he is just in front.
+
+158
+00:12:03.823 --> 00:12:09.023
+But as we play with fantasy and
+deforming things so that they are
+
+159
+00:12:09.440 --> 00:12:11.560
+as more playful, say,
+
+160
+00:12:11.578 --> 00:12:12.903
+In this case it does not affect.

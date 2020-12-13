@@ -1,0 +1,607 @@
+WEBVTT
+
+1
+00:00:04.560 --> 00:00:08.480
+First steps
+
+2
+00:00:11.103 --> 00:00:14.380
+What we are going to try
+to correct is this leg line,
+
+3
+00:00:15.283 --> 00:00:16.780
+which is the separator line,
+
+4
+00:00:16.780 --> 00:00:19.578
+It must accompany the
+entire shape of the leg.
+
+5
+00:00:21.318 --> 00:00:25.580
+We are going to have to adjust that
+line because we made a very big change.
+
+6
+00:00:25.580 --> 00:00:27.520
+We are adding intermediate tables.
+
+7
+00:00:53.940 --> 00:00:57.660
+I think we can exaggerate the
+movement of the arms a little more
+
+8
+00:00:57.660 --> 00:00:58.980
+To make it more remarkable.
+
+9
+00:01:10.573 --> 00:01:12.460
+There is pretty good.
+
+10
+00:01:12.460 --> 00:01:16.060
+So we are going to continue with this
+pose and what we are going to do is,
+
+11
+00:01:16.060 --> 00:01:20.580
+since we made a new pose for
+this drawing as a transition,
+
+12
+00:01:20.580 --> 00:01:22.820
+We will do the same for this pose.
+
+13
+00:01:22.820 --> 00:01:25.980
+We will try to
+leave this pose as final
+
+14
+00:01:25.980 --> 00:01:28.980
+and we will try to
+work on the transition.
+
+15
+00:01:28.980 --> 00:01:31.740
+We almost see the same
+process to sort the layers,
+
+16
+00:01:31.740 --> 00:01:34.900
+trying to maintain the same
+criteria of names and color.
+
+17
+00:01:54.593 --> 00:01:58.100
+We put the floor in a
+guideline to have reference
+
+18
+00:01:58.100 --> 00:02:00.060
+and we continue with the same process.
+
+19
+00:02:00.060 --> 00:02:03.460
+In this case, as I
+calculate that practically
+
+20
+00:02:03.460 --> 00:02:08.100
+all layers are going to be animated,
+I'm going to look for all layers of Path
+
+21
+00:02:08.100 --> 00:02:12.220
+of all layers and I will mark
+a first keyframe for everyone.
+
+22
+00:02:20.398 --> 00:02:25.260
+It is a way to save the initial
+pose, which in our case will be final,
+
+23
+00:02:26.078 --> 00:02:29.913
+to be able to animate and
+keep that pose without modifying.
+
+24
+00:02:32.488 --> 00:02:37.580
+Now we are going to make the
+character feel like he is falling to the floor
+
+25
+00:02:37.580 --> 00:02:39.760
+and with some rebound.
+
+26
+00:02:45.073 --> 00:02:50.620
+As the legs and arms are going
+to be supported on the floor,
+
+27
+00:02:50.620 --> 00:02:52.740
+I don't want them to
+be linked to the torso,
+
+28
+00:02:52.740 --> 00:02:56.060
+so I can move the torso
+independently of the arms.
+
+29
+00:03:43.775 --> 00:03:46.700
+I duplicate all the
+frames to keep thinking
+
+30
+00:03:46.700 --> 00:03:48.673
+at the time of rebound.
+
+31
+00:04:08.488 --> 00:04:13.140
+When we find rare
+movements in position animations,
+
+32
+00:04:13.140 --> 00:04:17.280
+Many times it is because there are
+Bézier curves in the positional movement,
+
+33
+00:04:17.280 --> 00:04:20.740
+especially when we have the
+position without separating dimensions.
+
+34
+00:04:20.740 --> 00:04:24.340
+In this case, since I don't know if
+I'm going to move my torso to my sides,
+
+35
+00:04:24.340 --> 00:04:27.500
+I'm going to leave the united position
+
+36
+00:04:27.500 --> 00:04:31.180
+but I'm going to make
+my keyframe interpolation
+
+37
+00:04:31.180 --> 00:04:33.180
+in spatial mode be linear.
+
+38
+00:05:02.203 --> 00:05:04.940
+I will carry all these
+keyframes at the beginning.
+
+39
+00:05:04.940 --> 00:05:10.058
+Now that we have a basic
+animation, let's see how it is moving.
+
+40
+00:05:17.988 --> 00:05:20.540
+It's pretty good but
+there's still a lot left.
+
+41
+00:05:20.540 --> 00:05:24.920
+I think, above all, this
+has to be very fast at first.
+
+42
+00:05:32.190 --> 00:05:36.300
+Maybe at this moment when it goes
+down, we should exaggerate a little more
+
+43
+00:05:36.300 --> 00:05:40.500
+the vertical movement, thus
+connecting the two poses better.
+
+44
+00:05:40.500 --> 00:05:45.053
+In this case, when we see that
+the comp is trimming the content,
+
+45
+00:05:45.053 --> 00:05:47.420
+if we know that we
+have all vector inside,
+
+46
+00:05:47.420 --> 00:05:51.780
+we can apply the star and we know
+that everything will be represented
+
+47
+00:05:51.780 --> 00:05:54.153
+as if it were within this comp.
+
+48
+00:05:54.153 --> 00:05:56.338
+So there the limits don't matter.
+
+49
+00:05:56.338 --> 00:05:59.340
+We could also extend
+the comp as we did before
+
+50
+00:05:59.340 --> 00:06:02.980
+But, in this case, this
+solution is simpler and works for now.
+
+51
+00:06:05.740 --> 00:06:09.548
+I'll go down a little more, to the
+point where I almost touched the floor.
+
+52
+00:06:12.140 --> 00:06:15.220
+I'm going to take this
+character a little further to the left
+
+53
+00:06:15.220 --> 00:06:17.860
+so that the feet
+match a little better.
+
+54
+00:06:20.718 --> 00:06:22.700
+There you can see
+everything more connected.
+
+55
+00:06:22.700 --> 00:06:25.180
+This helps us to see that
+it is not always necessary
+
+56
+00:06:25.180 --> 00:06:26.823
+make complete transitions,
+
+57
+00:06:26.840 --> 00:06:30.360
+as I spoke at the beginning of the
+course with the theme of "timing",
+
+58
+00:06:30.360 --> 00:06:34.240
+but simply to make
+transitions between poses,
+
+59
+00:06:34.260 --> 00:06:39.758
+and it's basically giving it a very
+fast acceleration, only we don't see it.
+
+60
+00:06:41.918 --> 00:06:44.900
+This is more or less
+good, now I'm noticing
+
+61
+00:06:44.900 --> 00:06:49.340
+that the rope is disappearing, then
+I'm going to look for that composition,
+
+62
+00:06:49.340 --> 00:06:53.945
+I am going to duplicate it and I am
+going to make one that is Solo_came.
+
+63
+00:06:57.148 --> 00:07:00.020
+Then I delete
+everything, except the rope,
+
+64
+00:07:00.020 --> 00:07:02.660
+and we have a
+composition with the animated rope.
+
+65
+00:07:03.533 --> 00:07:05.140
+Then we can...
+
+66
+00:07:07.343 --> 00:07:10.460
+put that composition inside it.
+
+67
+00:07:15.770 --> 00:07:19.340
+We put Guide and
+remove the original rope.
+
+68
+00:07:19.340 --> 00:07:22.300
+We only add that layer so
+that it exists as a reference
+
+69
+00:07:22.300 --> 00:07:25.140
+but, really, it is
+not important to add it.
+
+70
+00:07:25.140 --> 00:07:28.540
+The good thing about now is that
+we have the rope in a separate layer
+
+71
+00:07:28.540 --> 00:07:30.540
+and we can extend it to the end.
+
+72
+00:07:31.283 --> 00:07:33.660
+Now we need to improve
+this animation a bit,
+
+73
+00:07:33.660 --> 00:07:38.660
+adding details on the
+hair, hands and other things.
+
+74
+00:07:38.660 --> 00:07:42.708
+I will also see if I take the
+opportunity to give a little drag to the hair
+
+75
+00:07:42.708 --> 00:07:44.580
+when the character is falling
+
+76
+00:08:23.830 --> 00:08:26.568
+When the object has
+a downward movement,
+
+77
+00:08:26.568 --> 00:08:30.020
+the drag is done simulating
+that the object is going up,
+
+78
+00:08:30.020 --> 00:08:32.940
+then compensates with the
+direction in which it moves
+
+79
+00:08:32.940 --> 00:08:35.140
+and seems to have some resistance.
+
+80
+00:08:36.668 --> 00:08:38.820
+Now the hair comes from the right,
+
+81
+00:08:38.820 --> 00:08:42.010
+Then you have to pretend
+that this movement continues.
+
+82
+00:08:42.010 --> 00:08:47.260
+The movement is just an illusion
+that is given by a sequence of images,
+
+83
+00:08:47.260 --> 00:08:49.580
+That is basically what we are doing.
+
+84
+00:09:47.723 --> 00:09:49.905
+We will do the same with the bag.
+
+85
+00:09:49.905 --> 00:09:55.140
+With every little detail,
+we always add some animation.
+
+86
+00:09:55.140 --> 00:09:58.220
+In this case the bag
+works like an appendix,
+
+87
+00:09:58.220 --> 00:10:02.423
+It is like something that is
+added to the main object that moves.
+
+88
+00:10:02.423 --> 00:10:06.580
+So that's why it has a
+small delay in movements.
+
+89
+00:10:38.900 --> 00:10:41.020
+Here I am encountering the problem
+
+90
+00:10:41.020 --> 00:10:45.028
+that the nodes, having a
+straight line formation,
+
+91
+00:10:45.028 --> 00:10:48.210
+when we want to make
+curved or rotating movements,
+
+92
+00:10:48.210 --> 00:10:51.903
+our object changes scale,
+so we have to correct that.
+
+93
+00:11:16.353 --> 00:11:18.940
+We are correcting details as we can.
+
+94
+00:11:37.780 --> 00:11:41.020
+We are going to give the torso a bit
+of rotation and this is going to do
+
+95
+00:11:41.020 --> 00:11:44.580
+that all objects that are
+depending on him, such as the head,
+
+96
+00:11:44.580 --> 00:11:46.100
+They are also affected.
+
+97
+00:11:46.100 --> 00:11:49.940
+Ideally I would have put the
+torso anchor at a more logical point,
+
+98
+00:11:49.940 --> 00:11:54.060
+like at the waist, but it
+shouldn't be too much trouble either
+
+99
+00:11:54.060 --> 00:11:58.473
+if we adjust the
+position, along with the rotation.
+
+100
+00:13:14.983 --> 00:13:19.140
+With all these movements, we
+give it a little more naturalness.
+
+101
+00:13:20.090 --> 00:13:23.820
+Then it's a matter of
+adjusting when we see problems,
+
+102
+00:13:23.820 --> 00:13:25.260
+for example, here.
+
+103
+00:13:49.700 --> 00:13:53.980
+We are adjusting the pose
+of the hand, in this case,
+
+104
+00:13:53.980 --> 00:13:57.540
+and how I want only the
+hand, and not the whole arm,
+
+105
+00:13:57.540 --> 00:14:01.860
+continue with that pose up to that
+point, sometimes what I do is select
+
+106
+00:14:01.860 --> 00:14:05.093
+all the nodes of the objects
+that I want to continue animating
+
+107
+00:14:05.093 --> 00:14:08.580
+and, by moving them, I see
+where the keyframes are generated
+
+108
+00:14:08.580 --> 00:14:11.500
+because if not, we have
+a list of unnamed Paths.
+
+109
+00:14:11.500 --> 00:14:15.123
+By doing this, we can
+detect what the keyframes are
+
+110
+00:14:15.123 --> 00:14:17.978
+We need to keep cheering.
+
+111
+00:14:42.080 --> 00:14:45.020
+Finally I will give a
+little bounce to the head.
+
+112
+00:14:57.450 --> 00:15:01.940
+Care must be taken that it does not
+appear that objects are expanding.
+
+113
+00:15:01.940 --> 00:15:04.420
+Here the neck seemed
+to be getting longer.
+
+114
+00:15:06.485 --> 00:15:10.500
+With that, I think we
+can end this first stage.
+
+115
+00:15:10.520 --> 00:15:13.920
+As I mentioned at the
+beginning, we can add an adjustment layer
+
+116
+00:15:13.920 --> 00:15:18.080
+Have a Posterize Time and
+see how it looks at twelve.
+
+117
+00:15:30.193 --> 00:15:33.700
+I quite like the effect that
+is generated and, in this case,
+
+118
+00:15:33.700 --> 00:15:38.065
+It is showing us just all the
+keyframes that are important.
+
+119
+00:15:38.900 --> 00:15:43.380
+Sometimes, for example,
+maybe just this contact keyframe
+
+120
+00:15:43.380 --> 00:15:45.500
+He's not showing it
+because he skips it
+
+121
+00:15:45.500 --> 00:15:50.603
+so let's adjust the
+Rate and animate it,
+
+122
+00:15:50.603 --> 00:15:53.300
+so that in the
+fastest moment of action,
+
+123
+00:15:53.300 --> 00:15:56.900
+let's have 24
+keyframes and then back to 12.
+
+124
+00:16:03.003 --> 00:16:04.860
+The times need to be adjusted.
+
+125
+00:16:08.690 --> 00:16:11.688
+So we have our first
+scene practically ready.
+
+126
+00:16:21.345 --> 00:16:23.660
+We already took our first steps
+
+127
+00:16:23.660 --> 00:16:26.260
+and now we can
+continue with the next scene.

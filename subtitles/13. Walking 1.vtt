@@ -1,0 +1,1240 @@
+WEBVTT
+
+1
+00:00:04.600 --> 00:00:08.480
+Walking
+
+2
+00:00:08.920 --> 00:00:13.200
+In this lesson we will focus on
+the character's walking action.
+
+3
+00:00:13.540 --> 00:00:16.820
+We will take as a reference
+the bases of Richard Williams,
+
+4
+00:00:16.840 --> 00:00:20.720
+and we'll see how to apply them
+in the animation in After Effects.
+
+5
+00:00:26.040 --> 00:00:29.720
+Until now, we had come here.
+
+6
+00:00:30.360 --> 00:00:34.400
+Then, I added the part where
+the diamond is stored in the bag
+
+7
+00:00:34.785 --> 00:00:36.575
+and finally he walks.
+
+8
+00:00:37.040 --> 00:00:39.400
+For the part where
+the diamond is stored,
+
+9
+00:00:39.400 --> 00:00:40.960
+I added this new precomp
+
+10
+00:00:40.960 --> 00:00:44.220
+in which we had our
+design with this pose
+
+11
+00:00:44.920 --> 00:00:48.160
+and then I worked on the
+transitions to get to the moment
+
+12
+00:00:48.160 --> 00:00:50.480
+in which the diamond
+is stored in the bag.
+
+13
+00:00:50.480 --> 00:00:54.030
+I did this the same way
+we have been doing so far,
+
+14
+00:00:54.040 --> 00:00:58.720
+animating everything with Paths
+and took longer than it seems.
+
+15
+00:00:58.800 --> 00:01:00.720
+It's a pretty simple animation.
+
+16
+00:01:01.420 --> 00:01:04.620
+but there are very
+complex arm movements
+
+17
+00:01:04.640 --> 00:01:06.120
+that go from side to side
+
+18
+00:01:06.120 --> 00:01:08.840
+and this makes it
+consume a lot of time.
+
+19
+00:01:09.160 --> 00:01:10.800
+That's why it's good beforehand
+
+20
+00:01:10.800 --> 00:01:14.300
+try to think of quite
+simple, flat animations,
+
+21
+00:01:14.320 --> 00:01:18.160
+and avoid this kind of thing, in
+which an arm passes to the side,
+
+22
+00:01:18.560 --> 00:01:21.273
+ahead of the body, which
+comes from the other side.
+
+23
+00:01:21.273 --> 00:01:23.990
+Anyway, if we see it frame by frame,
+
+24
+00:01:24.080 --> 00:01:27.040
+the animation is not
+perfect, there are some jumps,
+
+25
+00:01:27.495 --> 00:01:31.488
+but, in the end, with the resource of
+lowering the frames per second to twelve,
+
+26
+00:01:31.490 --> 00:01:33.603
+and with the camera,
+which is a bit far away,
+
+27
+00:01:33.603 --> 00:01:35.920
+Those moments go unnoticed.
+
+28
+00:01:36.080 --> 00:01:38.480
+So, what we have to try to do
+
+29
+00:01:38.480 --> 00:01:41.920
+is to prioritize the
+important movements for reading
+
+30
+00:01:42.053 --> 00:01:44.863
+and work the best we
+can on the details.
+
+31
+00:01:45.680 --> 00:01:47.360
+To start with the walk,
+
+32
+00:01:47.380 --> 00:01:49.380
+We will do as we always do.
+
+33
+00:01:49.520 --> 00:01:51.730
+We import the layers of our design,
+
+34
+00:01:51.730 --> 00:01:55.920
+we separate the
+layers, we assign colors
+
+35
+00:01:56.160 --> 00:01:58.200
+and relating what is needed.
+
+36
+00:01:58.640 --> 00:02:02.200
+In this case, we do not
+match the legs to the torso
+
+37
+00:02:02.320 --> 00:02:05.200
+because we want the
+torso to move up and down,
+
+38
+00:02:05.200 --> 00:02:07.108
+regardless of the legs.
+
+39
+00:02:07.108 --> 00:02:10.198
+When we have the
+first pose already staged,
+
+40
+00:02:10.440 --> 00:02:12.560
+separated in layers, ready to animate,
+
+41
+00:02:12.560 --> 00:02:15.960
+We already have in this
+case the contact pose,
+
+42
+00:02:16.160 --> 00:02:18.480
+which is the extreme moment,
+
+43
+00:02:18.480 --> 00:02:21.120
+in which the legs contact the floor.
+
+44
+00:02:21.800 --> 00:02:25.760
+To know how to continue with
+the rest of our cycle poses,
+
+45
+00:02:25.880 --> 00:02:27.560
+We will look for a reference.
+
+46
+00:02:27.680 --> 00:02:29.480
+I recommend doing this always,
+
+47
+00:02:29.480 --> 00:02:32.480
+even if they already know
+how to do a walking cycle
+
+48
+00:02:32.480 --> 00:02:34.120
+you can search for this reference
+
+49
+00:02:34.400 --> 00:02:36.440
+because it's good
+to take it as a base.
+
+50
+00:02:36.480 --> 00:02:40.000
+If we search for "walk
+cycle" in Google Images,
+
+51
+00:02:40.103 --> 00:02:44.378
+We will see many references
+and ways to encourage this.
+
+52
+00:02:44.480 --> 00:02:48.280
+The one I recommend is one
+of the most repeated images,
+
+53
+00:02:48.680 --> 00:02:53.360
+which is the one taken
+from Richard Williams' book.
+
+54
+00:02:53.640 --> 00:02:55.920
+I recommend reading the book
+
+55
+00:02:55.920 --> 00:02:58.880
+But for now, using
+this reference is fine.
+
+56
+00:02:58.880 --> 00:03:02.115
+We will save it and use
+it in our After project.
+
+57
+00:03:02.115 --> 00:03:04.600
+We will import the
+image to our project
+
+58
+00:03:04.880 --> 00:03:06.800
+to have it as a reference.
+
+59
+00:03:07.360 --> 00:03:09.170
+Let's put as a mode in Guide.
+
+60
+00:03:09.170 --> 00:03:11.200
+It doesn't matter if
+it's on the other side,
+
+61
+00:03:11.200 --> 00:03:13.920
+what we want to know
+is the number of poses
+
+62
+00:03:13.920 --> 00:03:16.690
+what we have to do and
+the height of each one.
+
+63
+00:03:16.690 --> 00:03:18.600
+As in this reference,
+
+64
+00:03:18.600 --> 00:03:21.640
+In our walking cycle
+we do these five poses,
+
+65
+00:03:21.640 --> 00:03:24.080
+of which, if you look, five and one
+
+66
+00:03:24.080 --> 00:03:27.180
+They are basically the
+same, only it changes legs.
+
+67
+00:03:27.180 --> 00:03:29.640
+So, I placed these markers
+
+68
+00:03:29.640 --> 00:03:33.040
+equidistant, they all
+have the same distance,
+
+69
+00:03:33.670 --> 00:03:35.878
+which in this case
+are only four frames.
+
+70
+00:03:35.900 --> 00:03:39.988
+Do not worry about time
+because then you can adjust it.
+
+71
+00:03:40.360 --> 00:03:42.728
+The important thing is
+that they are equidistant.
+
+72
+00:03:42.728 --> 00:03:46.000
+So, the first pose we
+have is the contact one.
+
+73
+00:03:46.000 --> 00:03:48.740
+For the next one, the
+torso will go down a bit,
+
+74
+00:03:48.760 --> 00:03:50.520
+the foot will fully support
+
+75
+00:03:50.520 --> 00:03:52.320
+and the one behind gets up a little.
+
+76
+00:03:52.320 --> 00:03:56.840
+So, animating the vector
+layers of the legs and torso,
+
+77
+00:03:57.000 --> 00:03:59.328
+we can try to imitate these poses,
+
+78
+00:03:59.328 --> 00:04:01.460
+adapting them to our character.
+
+79
+00:04:01.460 --> 00:04:05.880
+Let's try to solve in the
+legs how the poses would be.
+
+80
+00:04:05.990 --> 00:04:09.420
+This is the Down pose, which
+is when you get all the weight
+
+81
+00:04:09.590 --> 00:04:12.220
+After contact, you
+receive it on this foot.
+
+82
+00:04:12.360 --> 00:04:14.000
+And it starts to rise.
+
+83
+00:04:14.028 --> 00:04:15.978
+Then follow the highest pose,
+
+84
+00:04:16.208 --> 00:04:19.855
+This foot is practically
+stretched and the other begins to pass.
+
+85
+00:04:20.450 --> 00:04:23.680
+Follow this pose in
+which the back foot
+
+86
+00:04:23.800 --> 00:04:27.100
+is almost forward, about to step on,
+
+87
+00:04:27.440 --> 00:04:30.600
+and finally we finish
+in the next contact pose,
+
+88
+00:04:30.600 --> 00:04:32.560
+where we exchange both feet.
+
+89
+00:04:32.840 --> 00:04:35.150
+For the first cycle, I recommend
+
+90
+00:04:35.160 --> 00:04:37.840
+concentrate, above
+all, first on the legs.
+
+91
+00:04:37.840 --> 00:04:41.160
+All other details, for
+example this shadow line,
+
+92
+00:04:41.160 --> 00:04:44.120
+we hide it for now and
+we will add it at the end,
+
+93
+00:04:44.120 --> 00:04:46.278
+when we are happy with the cycle.
+
+94
+00:04:46.280 --> 00:04:49.080
+In addition to adding leg keyframes,
+
+95
+00:04:49.080 --> 00:04:52.120
+that in this case, for
+example, I had to add one more
+
+96
+00:04:52.120 --> 00:04:56.500
+to be able to make that
+transition a bit more real
+
+97
+00:04:56.520 --> 00:04:58.900
+at the time I was touching the floor,
+
+98
+00:04:58.900 --> 00:05:02.080
+because otherwise, if
+at the time of contact
+
+99
+00:05:02.130 --> 00:05:06.440
+when the cue touches the
+floor, we move on to this moment,
+
+100
+00:05:06.740 --> 00:05:10.100
+Without that intermediate
+keyframe, the foot flies a little.
+
+101
+00:05:10.440 --> 00:05:13.680
+So, I wanted to add it
+to make it touch the floor
+
+102
+00:05:13.680 --> 00:05:16.240
+and by the way I gave some
+flexibility to the instep.
+
+103
+00:05:17.400 --> 00:05:19.360
+In addition to leg movement,
+
+104
+00:05:19.360 --> 00:05:22.180
+We will cheer our torso vertically.
+
+105
+00:05:22.400 --> 00:05:26.360
+If we see the curve, it is very
+similar to the curve I describe here.
+
+106
+00:05:26.560 --> 00:05:29.900
+At the contact points
+it remains the same,
+
+107
+00:05:29.940 --> 00:05:33.360
+the height of the first contact
+point is the same as the second.
+
+108
+00:05:33.520 --> 00:05:35.840
+Then lower in the support position
+
+109
+00:05:35.920 --> 00:05:38.620
+and start climbing to the highest pose
+
+110
+00:05:38.680 --> 00:05:41.560
+which is where the front
+foot is about to support.
+
+111
+00:05:42.193 --> 00:05:44.213
+If we see this in cycle,
+
+112
+00:05:44.283 --> 00:05:46.908
+We already have a walking cycle.
+
+113
+00:05:47.950 --> 00:05:50.783
+Now, for this to be a walking cycle
+
+114
+00:05:50.805 --> 00:05:53.943
+that transmits a true
+displacement of the character,
+
+115
+00:05:54.280 --> 00:05:56.880
+We will consider some things.
+
+116
+00:05:57.000 --> 00:06:00.200
+In addition to all the
+details that we will add later,
+
+117
+00:06:00.200 --> 00:06:02.840
+like bounces in the
+hair, the line here,
+
+118
+00:06:03.080 --> 00:06:05.800
+and details in the way the feet move,
+
+119
+00:06:05.840 --> 00:06:11.040
+but most importantly,
+when a character is walking,
+
+120
+00:06:11.470 --> 00:06:14.920
+at all times when your feet
+are in contact with the floor,
+
+121
+00:06:14.920 --> 00:06:17.120
+they have to move at the same speed,
+
+122
+00:06:17.160 --> 00:06:20.640
+since what we are going
+to do is a cycle in place
+
+123
+00:06:21.000 --> 00:06:24.720
+to which we will
+later relate to a null
+
+124
+00:06:24.920 --> 00:06:26.520
+That will have a displacement.
+
+125
+00:06:26.913 --> 00:06:29.445
+So, what we will do is create a null
+
+126
+00:06:29.640 --> 00:06:33.600
+that will have a
+movement in X to the left,
+
+127
+00:06:33.640 --> 00:06:36.760
+which is the direction in
+which our character moves.
+
+128
+00:06:36.760 --> 00:06:39.240
+Now, to know how
+much we have to move it,
+
+129
+00:06:39.520 --> 00:06:43.280
+One trick is to add some guide layers.
+
+130
+00:06:44.790 --> 00:06:47.840
+What I did was add a
+layer for each foot
+
+131
+00:06:48.060 --> 00:06:51.700
+to have as reference the
+location where each foot steps.
+
+132
+00:06:52.160 --> 00:06:55.640
+In addition to this, all
+kinds of guides we can use
+
+133
+00:06:55.800 --> 00:06:59.390
+To facilitate the construction of
+walking cycle, they will come in handy.
+
+134
+00:06:59.400 --> 00:07:02.400
+For example I also
+like to paint a color
+
+135
+00:07:02.603 --> 00:07:06.203
+the back leg to
+differentiate it from the front leg.
+
+136
+00:07:06.500 --> 00:07:10.060
+We are going to keep it that
+way throughout the walking cycle.
+
+137
+00:07:10.080 --> 00:07:13.070
+until we are happy
+and we just hide it.
+
+138
+00:07:13.070 --> 00:07:16.660
+So, we have this
+greener color for the back leg
+
+139
+00:07:16.905 --> 00:07:18.995
+and this more blue
+for the one in front.
+
+140
+00:07:20.018 --> 00:07:23.618
+Now that we have our
+five poses located,
+
+141
+00:07:23.960 --> 00:07:26.053
+what we are going to
+do is adjust the foot
+
+142
+00:07:26.053 --> 00:07:29.258
+to ensure that it
+travels at floor speed.
+
+143
+00:07:29.800 --> 00:07:32.270
+This null has a constant speed in X.
+
+144
+00:07:32.270 --> 00:07:35.320
+What I did was also add an expression,
+
+145
+00:07:35.600 --> 00:07:40.800
+which is continuous
+LoopOut, which extends that speed
+
+146
+00:07:40.880 --> 00:07:42.800
+in which we define those two nodes
+
+147
+00:07:43.520 --> 00:07:46.060
+and continue that
+movement perpetually.
+
+148
+00:07:46.320 --> 00:07:50.000
+That serves so that, even
+if we locate only two nodes
+
+149
+00:07:50.000 --> 00:07:54.240
+for one cycle, the null will
+continue to move indefinitely.
+
+150
+00:07:54.450 --> 00:07:58.140
+So, so far we have
+all the poses assigned,
+
+151
+00:07:58.180 --> 00:08:02.020
+more or less drawn, as they
+correspond to this drawing,
+
+152
+00:08:02.323 --> 00:08:05.643
+and we are in the first
+phase, which is the contact one,
+
+153
+00:08:06.080 --> 00:08:11.060
+we place these pictures on
+each foot of the character.
+
+154
+00:08:11.750 --> 00:08:16.320
+We link these two
+pictures with a new null.
+
+155
+00:08:16.720 --> 00:08:20.440
+This new null has no keyframe,
+
+156
+00:08:20.560 --> 00:08:25.000
+but it does have an expression in
+the animation, in the position of X,
+
+157
+00:08:25.000 --> 00:08:29.070
+which is basically the
+negative of the null below.
+
+158
+00:08:29.480 --> 00:08:31.120
+We have the main null,
+
+159
+00:08:31.240 --> 00:08:34.830
+which is what we are going to
+link to our character in a moment.
+
+160
+00:08:34.830 --> 00:08:36.643
+Then we create this second null
+
+161
+00:08:36.800 --> 00:08:42.640
+that will go at the same speed as the
+other but in the opposite direction.
+
+162
+00:08:42.910 --> 00:08:45.940
+Let's go to the expression
+
+163
+00:08:46.510 --> 00:08:49.343
+of the X position,
+simply with Alt + Click.
+
+164
+00:08:49.710 --> 00:08:54.240
+What we do is put less in
+the position of the other X.
+
+165
+00:08:54.280 --> 00:08:58.640
+He puts it anywhere, but
+that doesn't interest us.
+
+166
+00:08:58.880 --> 00:09:01.240
+What interests us is
+to have those two nulls
+
+167
+00:09:01.320 --> 00:09:03.080
+going at opposite speeds.
+
+168
+00:09:03.080 --> 00:09:05.160
+This can be done
+without an expression.
+
+169
+00:09:05.160 --> 00:09:08.760
+and simply copying and pasting the
+keyframes and turning them around.
+
+170
+00:09:08.960 --> 00:09:12.400
+The good thing about making the
+expression is that, whenever we modify
+
+171
+00:09:12.400 --> 00:09:14.840
+One of the keyframes,
+both will be modified.
+
+172
+00:09:15.280 --> 00:09:16.860
+This seems all very complex
+
+173
+00:09:16.860 --> 00:09:20.140
+but, in reality, it is only to
+be able to generate these guides.
+
+174
+00:09:20.160 --> 00:09:23.910
+What we want with the guides is
+that they move at constant speed.
+
+175
+00:09:23.910 --> 00:09:27.660
+Once with the null in
+the reverse direction,
+
+176
+00:09:27.860 --> 00:09:30.840
+We are going to link
+these two guides to that null.
+
+177
+00:09:31.140 --> 00:09:36.240
+With that, we adjust the
+speed at which the null moves.
+
+178
+00:09:36.600 --> 00:09:37.860
+How do we do that?
+
+179
+00:09:37.880 --> 00:09:40.728
+I deleted the keyframe so as
+not to have it as a reference.
+
+180
+00:09:40.728 --> 00:09:43.440
+Let's go to our last position,
+
+181
+00:09:43.600 --> 00:09:46.040
+and we will try to
+make this blue square
+
+182
+00:09:46.300 --> 00:09:48.483
+be located where our new foot is.
+
+183
+00:09:48.800 --> 00:09:51.400
+Then we carry ...
+
+184
+00:09:53.160 --> 00:09:55.600
+the null to that position.
+
+185
+00:09:56.720 --> 00:09:59.760
+This gives us the speed at
+which the character moves.
+
+186
+00:09:59.880 --> 00:10:02.480
+So, the good thing about
+this is that we now have
+
+187
+00:10:02.480 --> 00:10:06.000
+these two reference frames
+moving at constant speed.
+
+188
+00:10:06.000 --> 00:10:09.720
+We have to make sure that in
+each of the intermediate poses
+
+189
+00:10:09.915 --> 00:10:12.493
+The feet match the reference guide.
+
+190
+00:10:12.600 --> 00:10:15.440
+Surely when we draw
+them, as happened to me,
+
+191
+00:10:15.440 --> 00:10:17.840
+We had one foot first here or here.
+
+192
+00:10:18.250 --> 00:10:21.063
+If we make the feet match the square,
+
+193
+00:10:21.480 --> 00:10:25.920
+at all times, until
+he gets up, like here,
+
+194
+00:10:26.480 --> 00:10:28.840
+we have to think that
+they are a few steps,
+
+195
+00:10:28.840 --> 00:10:31.720
+some platforms on
+which the character walks.
+
+196
+00:10:31.720 --> 00:10:33.860
+If we do that, we will make sure
+
+197
+00:10:33.860 --> 00:10:36.700
+that the feet move
+at a constant speed.
+
+198
+00:10:37.000 --> 00:10:40.860
+Then we can link the entire character
+
+199
+00:10:41.100 --> 00:10:44.500
+which would basically
+be the torso and legs,
+
+200
+00:10:44.720 --> 00:10:47.720
+since the rest of the
+layers are linked to the torso.
+
+201
+00:10:49.120 --> 00:10:54.040
+If we link all those
+layers with the main Null X,
+
+202
+00:10:54.580 --> 00:10:57.520
+We see that the character
+begins to move across the floor.
+
+203
+00:10:58.200 --> 00:11:00.980
+We are going to hide the
+guides so we don't get confused.
+
+204
+00:11:01.280 --> 00:11:04.060
+and we will see that
+he is already walking.
+
+205
+00:11:04.400 --> 00:11:07.240
+That the feet move at a constant speed
+
+206
+00:11:07.280 --> 00:11:10.640
+makes, when we move it, in appearance,
+
+207
+00:11:10.660 --> 00:11:14.540
+The foot does not move, but
+is in contact with the floor.
+
+208
+00:11:15.120 --> 00:11:17.720
+I'm going back and I'm
+going to show you what's up
+
+209
+00:11:17.720 --> 00:11:19.440
+If we don't make that match.
+
+210
+00:11:19.880 --> 00:11:22.400
+For example, let's
+take this foot there.
+
+211
+00:11:23.420 --> 00:11:26.280
+Maybe without the guides
+and at a glance it looks good,
+
+212
+00:11:26.280 --> 00:11:29.060
+it may even look more like the pose,
+
+213
+00:11:29.840 --> 00:11:32.680
+but, I'm going to make
+this a bit more exaggerated,
+
+214
+00:11:33.760 --> 00:11:36.320
+if later we make all our character
+
+215
+00:11:36.320 --> 00:11:38.460
+move at a constant speed,
+
+216
+00:11:38.480 --> 00:11:42.960
+linking it to Null X, we will see
+that foot makes strange movements.
+
+217
+00:11:43.900 --> 00:11:47.420
+It has for example a drag
+that is very disconcerting.
+
+218
+00:11:47.960 --> 00:11:51.160
+To avoid such things,
+we use these guides.
+
+219
+00:11:51.960 --> 00:11:55.520
+Once we have legs and
+torso with basic movement,
+
+220
+00:11:55.720 --> 00:11:57.680
+We could start adding detail.
+
+221
+00:11:57.680 --> 00:12:00.400
+But what we have is
+not yet a complete cycle,
+
+222
+00:12:00.420 --> 00:12:03.020
+We simply have one leg.
+
+223
+00:12:03.040 --> 00:12:05.460
+The character is not inverted, yet.
+
+224
+00:12:05.460 --> 00:12:08.220
+We have to do that,
+again, the front leg
+
+225
+00:12:08.680 --> 00:12:10.360
+Go forward again.
+
+226
+00:12:10.960 --> 00:12:13.920
+Thus we begin the cycle
+again from the beginning.
+
+227
+00:12:15.460 --> 00:12:18.820
+If you want to make a
+profile view of your character
+
+228
+00:12:18.820 --> 00:12:22.560
+Like the one in this
+reference, you can copy the keyframes
+
+229
+00:12:22.680 --> 00:12:24.560
+from one leg and glue it to the other
+
+230
+00:12:24.560 --> 00:12:28.080
+or use the same movement as a
+reference and it would look good.
+
+231
+00:12:28.080 --> 00:12:29.200
+But actually,
+
+232
+00:12:29.200 --> 00:12:32.360
+our character is with a
+kind of three quarters,
+
+233
+00:12:32.360 --> 00:12:34.960
+It has a view that
+is just a bit lateral.
+
+234
+00:12:35.240 --> 00:12:40.140
+So, when the front foot is forward,
+
+235
+00:12:40.760 --> 00:12:44.600
+It is affected by this
+three-quarter perspective we have.
+
+236
+00:12:45.320 --> 00:12:49.120
+It doesn't look exactly
+the same as when it's behind.
+
+237
+00:12:49.640 --> 00:12:51.920
+For this, what can come in handy
+
+238
+00:12:51.920 --> 00:12:54.920
+is to use some sketches
+to have as a reference
+
+239
+00:12:55.240 --> 00:12:58.540
+and thus be able to make
+sure how to locate the feet.
+
+240
+00:12:59.240 --> 00:13:02.220
+For that, let's go back
+to Photoshop for a moment.
+
+241
+00:13:02.220 --> 00:13:05.720
+Let's go back to the
+character's walking sketch.
+
+242
+00:13:06.240 --> 00:13:10.120
+This pose was fine, in which,
+from this view three quarters,
+
+243
+00:13:10.480 --> 00:13:13.200
+we see a little of the right shoulder
+
+244
+00:13:13.680 --> 00:13:16.440
+and we see how the left leg is back.
+
+245
+00:13:16.440 --> 00:13:18.560
+And we see enough in
+front of the character.
+
+246
+00:13:19.080 --> 00:13:23.140
+But, when you change your foot,
+the view is a little different
+
+247
+00:13:23.480 --> 00:13:27.600
+because the character
+takes the left part forward.
+
+248
+00:13:27.800 --> 00:13:30.520
+That makes the right arm hide a little
+
+249
+00:13:30.800 --> 00:13:34.160
+and that the shape of
+the hip look different.
+
+250
+00:13:34.640 --> 00:13:36.320
+That's because on the walks
+
+251
+00:13:36.340 --> 00:13:39.260
+the character makes a
+swinging movement with the shoulders
+
+252
+00:13:39.460 --> 00:13:42.260
+forward and backward,
+with a slight inclination.
+
+253
+00:13:42.520 --> 00:13:46.080
+In addition, perspective
+affects the way we see the feet.
+
+254
+00:13:46.520 --> 00:13:49.980
+The more front you see, the
+less distance between your feet.
+
+255
+00:13:50.240 --> 00:13:52.560
+And, if we see it
+from this point of view,
+
+256
+00:13:52.800 --> 00:13:56.880
+The point at which each foot
+begins has a small separation.
+
+257
+00:13:56.880 --> 00:13:59.280
+If we draw a kind of bony here,
+
+258
+00:13:59.280 --> 00:14:03.520
+we will see that the hip makes
+the feet a little more separated.
+
+259
+00:14:03.520 --> 00:14:04.940
+The legs, sorry.
+
+260
+00:14:04.960 --> 00:14:06.920
+If we superimpose the two drawings,
+
+261
+00:14:07.160 --> 00:14:09.560
+let's see that they
+don't match, exactly.
+
+262
+00:14:09.560 --> 00:14:12.060
+When you have the right foot forward,
+
+263
+00:14:12.080 --> 00:14:13.640
+the feet are further apart
+
+264
+00:14:13.640 --> 00:14:15.960
+and when he has his right foot back,
+
+265
+00:14:15.960 --> 00:14:18.240
+the feet are perceived
+a little more together.
+
+266
+00:14:18.600 --> 00:14:22.800
+We carry these two images as
+a reference to have in After
+
+267
+00:14:23.220 --> 00:14:24.920
+and be able to cheer on that.

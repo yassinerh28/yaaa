@@ -1,0 +1,1033 @@
+WEBVTT
+
+1
+00:00:04.720 --> 00:00:08.480
+Setting the scene
+
+2
+00:00:09.153 --> 00:00:12.913
+We already have our
+material ready to start animating.
+
+3
+00:00:12.913 --> 00:00:15.698
+In the first lesson, we
+will open After Effects
+
+4
+00:00:15.698 --> 00:00:17.820
+and we will begin
+to prepare the scene.
+
+5
+00:00:20.918 --> 00:00:24.373
+Now, finally, we can get
+full with After Effects
+
+6
+00:00:24.373 --> 00:00:26.098
+And start with the animation.
+
+7
+00:00:26.728 --> 00:00:30.108
+First we will prepare
+the scene, but before that
+
+8
+00:00:30.108 --> 00:00:33.018
+I recommend putting
+together a folder structure
+
+9
+00:00:33.018 --> 00:00:34.785
+To keep everything tidy.
+
+10
+00:00:34.785 --> 00:00:38.963
+I first create one to
+which I put Rendercomps,
+
+11
+00:00:38.963 --> 00:00:41.665
+basically, here are
+going to go precomps
+
+12
+00:00:41.665 --> 00:00:44.073
+that will come out
+directly from rendering.
+
+13
+00:00:44.073 --> 00:00:47.695
+In our case, only the
+final animation will go.
+
+14
+00:00:47.695 --> 00:00:50.160
+Then another folder for precomps.
+
+15
+00:00:51.000 --> 00:00:52.680
+We sort this by name.
+
+16
+00:00:52.680 --> 00:00:55.960
+I put the script low
+so it always stays up.
+
+17
+00:00:56.133 --> 00:00:57.560
+Another for Assets
+
+18
+00:00:58.360 --> 00:01:00.583
+and alone solids will be created.
+
+19
+00:01:00.583 --> 00:01:03.973
+I also recommend using the tags
+
+20
+00:01:03.973 --> 00:01:06.295
+which are usually hidden out there.
+
+21
+00:01:06.440 --> 00:01:10.395
+Color the compositions of the folders
+
+22
+00:01:10.395 --> 00:01:13.248
+Sometimes it helps us a
+little to get organized.
+
+23
+00:01:13.248 --> 00:01:16.233
+So, if we order by color order,
+
+24
+00:01:16.240 --> 00:01:18.920
+We can use to highlight some comps.
+
+25
+00:01:18.933 --> 00:01:21.688
+The first thing we are
+going to do is import
+
+26
+00:01:21.688 --> 00:01:25.033
+Animatic project or
+export, if we have it ready.
+
+27
+00:01:25.760 --> 00:01:29.520
+We will use our Animatic comp
+
+28
+00:01:29.538 --> 00:01:31.875
+and we will create a
+new comp from that.
+
+29
+00:01:31.875 --> 00:01:36.200
+This we will take to Rendercomps
+because it will be our final animation.
+
+30
+00:01:36.438 --> 00:01:38.195
+We are going to put Comp.
+
+31
+00:01:38.815 --> 00:01:41.683
+Animatic, the
+precomp we take to Precomps
+
+32
+00:01:41.683 --> 00:01:43.683
+and everything else we can put in,
+
+33
+00:01:43.683 --> 00:01:45.663
+except Solids, we take it out
+
+34
+00:01:45.663 --> 00:01:48.253
+and the rest we can put in Assets.
+
+35
+00:01:48.253 --> 00:01:50.398
+Then we will continue to import things
+
+36
+00:01:50.398 --> 00:01:53.988
+And we will import
+all our styleframes.
+
+37
+00:01:53.988 --> 00:01:55.762
+Let's put import folder.
+
+38
+00:01:55.762 --> 00:01:57.298
+So we already have a folder
+
+39
+00:01:57.298 --> 00:01:59.593
+with all the images
+of the styleframes.
+
+40
+00:01:59.593 --> 00:02:01.507
+We also send this to Assets.
+
+41
+00:02:01.507 --> 00:02:03.547
+And finally, all our material.
+
+42
+00:02:03.547 --> 00:02:05.128
+We will enter the folder
+
+43
+00:02:05.128 --> 00:02:08.170
+and select all the Illustrator files
+
+44
+00:02:08.170 --> 00:02:10.348
+and we will make sure to mark it as:
+
+45
+00:02:10.360 --> 00:02:12.800
+Composition - Maintain Layer Sizes.
+
+46
+00:02:13.648 --> 00:02:18.228
+We are going to import this and
+what it does is import all precomps
+
+47
+00:02:18.228 --> 00:02:20.397
+With the designs we
+already have ready.
+
+48
+00:02:20.397 --> 00:02:21.980
+Let's clean up a little here
+
+49
+00:02:21.980 --> 00:02:24.613
+and we will take all
+the layers of Illustrator
+
+50
+00:02:24.613 --> 00:02:25.962
+to the Assets folder,
+
+51
+00:02:25.962 --> 00:02:28.770
+and we will work with these precomps.
+
+52
+00:02:28.770 --> 00:02:32.023
+So, first we can start
+by importing the fund
+
+53
+00:02:32.023 --> 00:02:33.863
+and we can import
+
+54
+00:02:34.575 --> 00:02:37.758
+All our styleframes to
+have them as a reference.
+
+55
+00:02:38.097 --> 00:02:40.688
+To all layers of
+styleframes and animatic
+
+56
+00:02:40.688 --> 00:02:42.293
+We will put them as a guide.
+
+57
+00:02:42.293 --> 00:02:45.723
+I sometimes put a black color,
+so they do not stand out much.
+
+58
+00:02:45.723 --> 00:02:49.088
+As we create the
+composition from that of the animatic,
+
+59
+00:02:49.088 --> 00:02:51.223
+that we already had it set,
+
+60
+00:02:51.223 --> 00:02:53.940
+we already have more
+or less the duration,
+
+61
+00:02:53.940 --> 00:02:56.938
+dimensions and pictures per second.
+
+62
+00:02:56.938 --> 00:02:58.207
+If we enter Animatic
+
+63
+00:02:58.207 --> 00:03:02.973
+We see that our total animation
+lasts approximately 16 seconds.
+
+64
+00:03:02.973 --> 00:03:06.520
+Then, we can make our
+general comp last the same.
+
+65
+00:03:07.315 --> 00:03:10.635
+All layers of styleframes
+are saved as a reference
+
+66
+00:03:10.635 --> 00:03:13.743
+and we work with the first scene
+that is the one in the background.
+
+67
+00:03:13.955 --> 00:03:15.775
+Let's get the bottom
+
+68
+00:03:15.983 --> 00:03:18.257
+with Ctrl + Shift + C in a new precomp
+
+69
+00:03:18.257 --> 00:03:20.060
+What can we call scene_01.
+
+70
+00:03:20.060 --> 00:03:22.847
+Let's make sure to
+mark the second option
+
+71
+00:03:22.847 --> 00:03:25.768
+to create a new
+composition with it inside.
+
+72
+00:03:25.768 --> 00:03:28.067
+We will select the first styleframe
+
+73
+00:03:28.067 --> 00:03:32.342
+and we are going to copy the
+animatic and take it into this scene.
+
+74
+00:03:32.342 --> 00:03:34.590
+We will work first in this scene
+
+75
+00:03:34.590 --> 00:03:36.153
+and then we will go,
+
+76
+00:03:36.153 --> 00:03:37.933
+as we go forward,
+
+77
+00:03:37.933 --> 00:03:40.700
+creating new scenes and we
+will be adding them here.
+
+78
+00:03:40.700 --> 00:03:43.417
+For now we focus on the first scene.
+
+79
+00:03:44.365 --> 00:03:47.870
+With the animatic as a
+reference, we can multiply it,
+
+80
+00:03:47.870 --> 00:03:49.430
+since it has black lines,
+
+81
+00:03:49.430 --> 00:03:50.995
+and lower the opacity a little.
+
+82
+00:03:50.995 --> 00:03:52.293
+The first thing we will do
+
+83
+00:03:52.293 --> 00:03:55.853
+is to accommodate the
+bottom to match the scale we have
+
+84
+00:03:55.853 --> 00:03:58.720
+in our animatic or in our styleframe.
+
+85
+00:03:59.095 --> 00:04:00.908
+We can also use this
+
+86
+00:04:00.908 --> 00:04:03.428
+to have as a reference for sizes.
+
+87
+00:04:03.568 --> 00:04:06.178
+I usually put Layer Mode Difference
+
+88
+00:04:06.178 --> 00:04:08.658
+to show us a very high contrast
+
+89
+00:04:08.658 --> 00:04:11.567
+between the differences
+between one layer and another.
+
+90
+00:04:11.567 --> 00:04:13.305
+So, if we scale the bottom
+
+91
+00:04:13.305 --> 00:04:16.168
+we can make it more or less match
+
+92
+00:04:16.168 --> 00:04:18.460
+with what we have in our styleframe,
+
+93
+00:04:18.460 --> 00:04:20.010
+and locate it correctly.
+
+94
+00:04:20.010 --> 00:04:22.593
+Our background has
+layers of Illustrator,
+
+95
+00:04:22.593 --> 00:04:24.945
+if we give F4 we
+see all these columns.
+
+96
+00:04:25.310 --> 00:04:28.660
+When we mark the layers of
+Illustrator with this little star
+
+97
+00:04:28.660 --> 00:04:30.953
+which means "rasterize continuously",
+
+98
+00:04:30.953 --> 00:04:34.028
+we will make sure that
+when we scale the objects
+
+99
+00:04:34.028 --> 00:04:37.702
+They will always look
+sharp, always sharp.
+
+100
+00:04:38.280 --> 00:04:41.880
+If we take that out, let's
+see that the pixels are scaled.
+
+101
+00:04:41.880 --> 00:04:43.320
+We do not want that.
+
+102
+00:04:43.863 --> 00:04:47.643
+We make sure that the entire
+fund is marked with a little star
+
+103
+00:04:47.643 --> 00:04:51.093
+and that the Background Layer
+itself is marked with a star.
+
+104
+00:04:51.093 --> 00:04:54.325
+Thus, when we climb the
+bottom, everything looks clear.
+
+105
+00:04:54.780 --> 00:04:57.495
+That's the good thing about
+working with vector objects.
+
+106
+00:04:57.495 --> 00:04:59.733
+and not with
+Photoshop with bitmap files,
+
+107
+00:04:59.733 --> 00:05:02.333
+because in that case
+everyone would break,
+
+108
+00:05:02.333 --> 00:05:04.778
+but taking advantage of the vector
+
+109
+00:05:04.778 --> 00:05:07.965
+We can keep everything
+always clear very easily.
+
+110
+00:05:07.965 --> 00:05:10.355
+So, we continue to
+accommodate our background
+
+111
+00:05:10.750 --> 00:05:13.238
+to locate it more or
+less where it has to go.
+
+112
+00:05:14.628 --> 00:05:17.162
+What the layer does in
+Layer Mode Difference
+
+113
+00:05:17.855 --> 00:05:20.765
+is that it shows us with
+black the things that match.
+
+114
+00:05:20.765 --> 00:05:23.688
+When we see that what
+matters to us coincides in black
+
+115
+00:05:23.688 --> 00:05:25.500
+we can change the Layer Mode
+
+116
+00:05:25.500 --> 00:05:28.653
+and we can see if it is more
+or less where it has to go.
+
+117
+00:05:28.653 --> 00:05:31.360
+I think the floor
+could go a little lower.
+
+118
+00:05:31.760 --> 00:05:32.960
+No, above.
+
+119
+00:05:35.433 --> 00:05:38.147
+The scale I think is still a bit big.
+
+120
+00:05:39.543 --> 00:05:40.835
+There is pretty good,
+
+121
+00:05:40.835 --> 00:05:43.138
+does not match
+exactly for some reason,
+
+122
+00:05:43.138 --> 00:05:45.350
+but for now this is enough
+
+123
+00:05:45.350 --> 00:05:48.020
+because we are not
+working with great precision.
+
+124
+00:05:48.020 --> 00:05:52.200
+First of all, let's save our
+project: Domestika_Animation.
+
+125
+00:05:52.200 --> 00:05:54.413
+Now that we have our fund located,
+
+126
+00:05:54.413 --> 00:05:57.948
+we will modify it to
+match the first scene,
+
+127
+00:05:57.948 --> 00:05:59.667
+which, according to our styleframe,
+
+128
+00:05:59.667 --> 00:06:03.293
+It has the lights off and the
+columns a little further to the right.
+
+129
+00:06:03.293 --> 00:06:05.580
+I'm going to take that
+reference styleframe,
+
+130
+00:06:05.580 --> 00:06:09.052
+I will go inside the background and
+I will paste the styleframe guide.
+
+131
+00:06:10.688 --> 00:06:13.908
+What I want to do with
+this is to have a reference
+
+132
+00:06:13.908 --> 00:06:16.023
+where are things going to go from?
+
+133
+00:06:16.023 --> 00:06:18.818
+So, now, the opposite
+of how we did recently
+
+134
+00:06:18.818 --> 00:06:20.273
+that we enlarge the bottom
+
+135
+00:06:20.273 --> 00:06:22.463
+let's shrink the styleframe layer
+
+136
+00:06:22.463 --> 00:06:26.198
+to have more or less as a
+reference the location of the columns.
+
+137
+00:06:26.485 --> 00:06:28.640
+We see that
+according to the styleframe
+
+138
+00:06:28.640 --> 00:06:30.947
+the columns go a
+little further to the right.
+
+139
+00:06:30.947 --> 00:06:35.442
+Luckily we have them well
+separated and we can move them easily.
+
+140
+00:06:35.442 --> 00:06:38.335
+I am going to link the
+Column_light to the Column_ Capa.
+
+141
+00:06:39.103 --> 00:06:43.083
+I separate the dimensions because we
+know that they will move only in X.
+
+142
+00:06:43.653 --> 00:06:46.208
+I turn this frame into a holdframe.
+
+143
+00:06:46.208 --> 00:06:47.522
+I'll leave later
+
+144
+00:06:47.522 --> 00:06:50.618
+because I want to maintain
+this position at some point.
+
+145
+00:06:50.618 --> 00:06:54.763
+We will modify the initial
+position to match the styleframe,
+
+146
+00:06:54.763 --> 00:06:56.097
+It would be more or less there.
+
+147
+00:06:56.097 --> 00:06:59.908
+I turn it into a holdframe so
+it stays fixed without animating.
+
+148
+00:06:59.908 --> 00:07:04.238
+We leave this frame
+saved, then we will reuse it.
+
+149
+00:07:04.238 --> 00:07:06.740
+For now we focus on the first scene.
+
+150
+00:07:06.740 --> 00:07:09.338
+I can already hide
+this reference styleframe
+
+151
+00:07:09.720 --> 00:07:13.197
+and what we should keep
+in mind is that the light
+
+152
+00:07:13.197 --> 00:07:15.955
+It will not be present at
+the beginning of the scene.
+
+153
+00:07:15.955 --> 00:07:18.580
+So, let's select the layers of light,
+
+154
+00:07:19.410 --> 00:07:21.838
+we paint them in one
+color to identify them
+
+155
+00:07:21.838 --> 00:07:23.487
+and hide them, for now.
+
+156
+00:07:23.487 --> 00:07:26.235
+We are going to move
+it quite to the right
+
+157
+00:07:26.235 --> 00:07:29.670
+to keep them, but that do
+not affect in the beginning.
+
+158
+00:07:29.670 --> 00:07:31.948
+With Tab we can go
+back to the previous comp
+
+159
+00:07:31.948 --> 00:07:33.598
+and see if everything is in order.
+
+160
+00:07:33.598 --> 00:07:36.413
+We compare our scene
+with the initial styleframe
+
+161
+00:07:36.413 --> 00:07:37.918
+And it's pretty good.
+
+162
+00:07:37.918 --> 00:07:41.238
+The only thing we have
+different is the diamond holder,
+
+163
+00:07:41.238 --> 00:07:44.558
+which in our styleframe
+is a little more dark blue.
+
+164
+00:07:44.558 --> 00:07:47.635
+Then we will grab that object
+
+165
+00:07:47.635 --> 00:07:52.350
+and the first thing we are going to
+do is create shapes from the vector.
+
+166
+00:07:52.350 --> 00:07:55.023
+We are going to do
+this a lot in our project
+
+167
+00:07:55.023 --> 00:07:59.603
+because it will allow us to edit
+the layers within that same object.
+
+168
+00:07:59.603 --> 00:08:01.305
+We will go to its contents.
+
+169
+00:08:02.413 --> 00:08:04.828
+We see that we have three groups.
+
+170
+00:08:04.828 --> 00:08:06.330
+We can hide them
+
+171
+00:08:06.330 --> 00:08:09.943
+and we realize that the third
+one is the one we need to edit.
+
+172
+00:08:09.943 --> 00:08:12.818
+From here we want to
+change the color of the stroke.
+
+173
+00:08:12.818 --> 00:08:14.533
+Then let's animate it.
+
+174
+00:08:14.533 --> 00:08:17.808
+We are going to keep
+it leading to the right
+
+175
+00:08:17.808 --> 00:08:21.113
+and we will choose the color
+that corresponds to this scene,
+
+176
+00:08:21.113 --> 00:08:23.195
+That is a darker blue.
+
+177
+00:08:23.195 --> 00:08:27.235
+Then, again we hold it so that
+it remains without animation.
+
+178
+00:08:27.235 --> 00:08:30.557
+Returning to the first scene, we
+see that everything is perfect.
+
+179
+00:08:30.557 --> 00:08:33.875
+So, now we can show our animatic
+
+180
+00:08:33.875 --> 00:08:36.663
+and see when things start to change.
+
+181
+00:08:36.663 --> 00:08:38.798
+The first scene we will see that lasts
+
+182
+00:08:38.798 --> 00:08:41.493
+while the light
+appears, when the girl falls,
+
+183
+00:08:41.493 --> 00:08:44.320
+and cut when we approach the camera.
+
+184
+00:08:44.320 --> 00:08:47.853
+So leaving some more tolerance frames
+
+185
+00:08:47.853 --> 00:08:51.373
+we can trim the first scene
+more or less at 5 seconds.
+
+186
+00:08:52.613 --> 00:08:54.953
+Now we see that
+according to our animatic
+
+187
+00:08:54.953 --> 00:08:59.138
+more or less in the second
+1.5 the light begins to appear.
+
+188
+00:08:59.138 --> 00:09:02.575
+Then we can set
+that in the background.
+
+189
+00:09:02.575 --> 00:09:05.273
+We take advantage of
+that with After Effects
+
+190
+00:09:05.273 --> 00:09:07.495
+when we double click on a precomp
+
+191
+00:09:07.495 --> 00:09:10.320
+It keeps us the time we stand.
+
+192
+00:09:10.320 --> 00:09:12.945
+We are at the moment
+when the light comes on
+
+193
+00:09:12.945 --> 00:09:16.573
+and we can make our layers
+begin at that right moment.
+
+194
+00:09:17.368 --> 00:09:20.663
+Then, in the second 1.5
+the lights will come on.
+
+195
+00:09:20.663 --> 00:09:23.018
+Then we can animate
+them a little better,
+
+196
+00:09:23.018 --> 00:09:24.658
+But for now that's fine.
+
+197
+00:09:24.658 --> 00:09:26.770
+Let's start with the thickest
+
+198
+00:09:26.770 --> 00:09:28.838
+and little by little we
+will be adding details.
+
+199
+00:09:28.838 --> 00:09:31.705
+According to our Animatic,
+following it as a reference,
+
+200
+00:09:31.705 --> 00:09:33.318
+from the second two
+
+201
+00:09:33.318 --> 00:09:35.458
+Our character appears up there.
+
+202
+00:09:35.458 --> 00:09:38.985
+As it will be animated, it will
+probably start appearing earlier,
+
+203
+00:09:38.985 --> 00:09:42.293
+but for now we will
+place it only as a reference.
+
+204
+00:09:42.293 --> 00:09:45.355
+We are looking for our
+character, which appears with a rope,
+
+205
+00:09:45.355 --> 00:09:47.760
+and we have it start right now,
+
+206
+00:09:47.760 --> 00:09:51.637
+and with the animatic as a reference
+we will place it where it has to go.
+
+207
+00:09:51.637 --> 00:09:54.938
+The next thing that happens is
+that our character falls to the floor.
+
+208
+00:09:55.563 --> 00:09:58.520
+Let's make this precomp end there
+
+209
+00:09:58.520 --> 00:10:01.670
+and then the character
+appears on the floor.
+
+210
+00:10:01.670 --> 00:10:06.220
+As we always kept the scale
+when making our illustrations,
+
+211
+00:10:06.220 --> 00:10:08.348
+now we can import the object
+
+212
+00:10:08.348 --> 00:10:10.855
+and it will be on the scale we need,
+
+213
+00:10:10.855 --> 00:10:13.808
+beyond the
+composition itself being larger.
+
+214
+00:10:13.808 --> 00:10:15.682
+We can hide our animatic
+
+215
+00:10:15.682 --> 00:10:18.138
+because we no longer
+need it as a reference.
+
+216
+00:10:18.138 --> 00:10:20.783
+And we place our
+character a little better.
+
+217
+00:10:20.800 --> 00:10:22.800
+We see that there is quite good.
+
+218
+00:10:24.078 --> 00:10:26.830
+So, if we go to the original comp
+
+219
+00:10:29.138 --> 00:10:31.553
+We can already hide our animatic.
+
+220
+00:10:31.553 --> 00:10:34.497
+We will always have it
+as a reference anyway.
+
+221
+00:10:34.497 --> 00:10:37.683
+We already have our first
+scene, practically ready.
+
+222
+00:10:37.683 --> 00:10:39.507
+Of course we need to animate it,
+
+223
+00:10:39.507 --> 00:10:42.127
+but we have more or
+less things in place.
+
+224
+00:10:42.127 --> 00:10:46.130
+So we will continue with the others
+to have a first base of everything.
+
+225
+00:10:46.130 --> 00:10:48.985
+First we make sure
+that at Rendercomps,
+
+226
+00:10:48.985 --> 00:10:50.808
+We only have the main comp,
+
+227
+00:10:50.808 --> 00:10:52.573
+So we are ordering a little.

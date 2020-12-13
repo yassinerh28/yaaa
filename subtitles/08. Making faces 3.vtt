@@ -1,0 +1,349 @@
+WEBVTT
+
+1
+00:00:04.720 --> 00:00:08.480
+Making faces
+
+2
+00:00:10.523 --> 00:00:14.533
+Now we must make these two
+poses, which are supposedly the same,
+
+3
+00:00:14.533 --> 00:00:16.545
+be as similar as possible.
+
+4
+00:00:23.688 --> 00:00:28.703
+I will try to give that
+feeling of inclination of the face.
+
+5
+00:00:32.603 --> 00:00:34.973
+The head has to lower much more.
+
+6
+00:00:37.618 --> 00:00:40.590
+We are going to throw a
+guideline to make sure
+
+7
+00:00:40.590 --> 00:00:43.932
+that the two poses of the
+faces coincide horizontally.
+
+8
+00:01:02.953 --> 00:01:06.310
+There is pretty good, we
+can eliminate the guidelines.
+
+9
+00:01:30.560 --> 00:01:32.908
+Let's cheer up the
+torso a little more.
+
+10
+00:02:01.590 --> 00:02:05.425
+We will move the torso to the
+right when it starts to move.
+
+11
+00:02:31.730 --> 00:02:34.090
+And what we are
+going to do in this case
+
+12
+00:02:34.090 --> 00:02:37.132
+It is to maintain a
+single torso for everything.
+
+13
+00:02:37.943 --> 00:02:41.488
+We are going to change this
+place, so we can stretch this image,
+
+14
+00:02:41.938 --> 00:02:45.505
+and it's the one we're going
+to use for our second pose too.
+
+15
+00:02:46.083 --> 00:02:48.818
+We will take as
+reference the one below,
+
+16
+00:02:48.818 --> 00:02:51.763
+since it is the design
+that we initially thought
+
+17
+00:02:51.763 --> 00:02:55.710
+and we are going to adapt
+this layer to that design.
+
+18
+00:02:55.778 --> 00:02:57.868
+Using Difference layer mode,
+
+19
+00:02:57.868 --> 00:03:01.427
+I can help myself locate
+things where they have to go.
+
+20
+00:03:03.448 --> 00:03:06.853
+Since the torso will be the one
+with the most continuous movement,
+
+21
+00:03:06.853 --> 00:03:08.850
+We want it to be a single layer.
+
+22
+00:03:08.850 --> 00:03:10.428
+It will avoid problems,
+
+23
+00:03:10.428 --> 00:03:13.558
+and we will make sure
+that it moves smoothly.
+
+24
+00:03:24.198 --> 00:03:25.453
+It is almost there.
+
+25
+00:03:25.453 --> 00:03:29.320
+What I think he needs is to play
+a little with the accelerations.
+
+26
+00:03:29.703 --> 00:03:31.793
+Let's give it a little more time
+
+27
+00:03:31.793 --> 00:03:33.580
+at the moment he blinks.
+
+28
+00:03:39.443 --> 00:03:42.595
+And let's give this
+pose a bit of Overlapping.
+
+29
+00:03:49.508 --> 00:03:52.965
+I'm going to add a keyframe
+to everyone we have animated.
+
+30
+00:03:58.658 --> 00:04:01.180
+And I'm going to
+exaggerate this pose a little,
+
+31
+00:04:03.463 --> 00:04:05.253
+opening your eyes a little more.
+
+32
+00:04:15.800 --> 00:04:20.920
+And this is going to give an
+acceleration with Ease In, but make it fast.
+
+33
+00:04:29.910 --> 00:04:32.413
+We are going to give a
+little bounce to the head.
+
+34
+00:04:45.143 --> 00:04:50.598
+I make sure that all positions
+have a linear spatial interpolation,
+
+35
+00:04:50.598 --> 00:04:53.572
+so they don't surprise
+us with strange movements.
+
+36
+00:05:10.880 --> 00:05:13.383
+Something like that, very
+soft, should already be fine.
+
+37
+00:05:41.433 --> 00:05:44.682
+There it was pretty good, the only
+thing that looks weird is the hair
+
+38
+00:05:44.682 --> 00:05:46.680
+because we haven't encouraged him yet.
+
+39
+00:05:47.233 --> 00:05:50.080
+With the hair we will do
+the same as with the torso.
+
+40
+00:05:50.460 --> 00:05:53.047
+Let's leave the one
+below for reference.
+
+41
+00:05:55.893 --> 00:05:58.425
+I put Difference as layer mode
+
+42
+00:05:58.425 --> 00:06:00.598
+and I make sure that
+in the final position
+
+43
+00:06:00.600 --> 00:06:03.720
+look as we had
+designed in our styleframe.
+
+44
+00:06:20.925 --> 00:06:22.453
+There it is more or less.
+
+45
+00:06:22.453 --> 00:06:25.283
+The colors are very
+crazy with this layer mode.
+
+46
+00:06:25.283 --> 00:06:28.008
+We could change the
+idea of it being a zombie.
+
+47
+00:06:28.008 --> 00:06:29.953
+We carry our hair behind everything
+
+48
+00:06:29.960 --> 00:06:32.440
+and we will continue
+tying the keyframes.
+
+49
+00:07:02.718 --> 00:07:06.063
+First, as a basis, I make
+sure the times are fine,
+
+50
+00:07:06.063 --> 00:07:09.595
+and that the movement follow
+the movement made by the head.
+
+51
+00:07:20.925 --> 00:07:23.153
+There we can give it a little bounce.
+
+52
+00:07:48.593 --> 00:07:51.228
+Once we made all the
+necessary adjustments
+
+53
+00:07:51.228 --> 00:07:53.680
+and we gave
+expressiveness to the hair, we can give
+
+54
+00:07:53.680 --> 00:07:56.000
+The head animation is over.
+
+55
+00:07:56.868 --> 00:08:00.538
+What we will do now is that the
+face looks back to the other side,
+
+56
+00:08:00.538 --> 00:08:03.393
+because we are going to
+cut with the diamond scene
+
+57
+00:08:03.393 --> 00:08:05.220
+which is on our left.
+
+58
+00:08:05.240 --> 00:08:08.680
+If we end the character
+scene looking to the right,
+
+59
+00:08:08.680 --> 00:08:11.120
+We will think that the
+diamond is on the right.
+
+60
+00:08:11.120 --> 00:08:12.543
+And that is not like that.
+
+61
+00:08:12.543 --> 00:08:16.583
+So, we can take advantage that we
+already have this transition made
+
+62
+00:08:17.600 --> 00:08:19.720
+and do the same, but inverted.
+
+63
+00:09:23.053 --> 00:09:25.988
+Finally, we are going
+to add a camera movement
+
+64
+00:09:26.000 --> 00:09:30.440
+That ends with a very high
+speed to connect to the next scene.
+
+65
+00:10:04.998 --> 00:10:08.735
+Anyway, this kind of
+resources to reverse the layers
+
+66
+00:10:08.735 --> 00:10:11.952
+I recommend that they use it
+only when they are short of time.
+
+67
+00:10:11.952 --> 00:10:15.242
+I didn't want to extend
+much with this, so I wanted
+
+68
+00:10:15.242 --> 00:10:17.140
+Recycle what we had already done.
+
+69
+00:10:17.140 --> 00:10:20.322
+But if they have time to
+do it by hand, the better.
+
+70
+00:10:21.368 --> 00:10:24.603
+Finally, we can
+finish this scene by adding
+
+71
+00:10:24.603 --> 00:10:28.633
+all camera movements and the
+rest of the remaining animations,
+
+72
+00:10:28.633 --> 00:10:31.635
+Like the sparkle of the diamond
+
+73
+00:11:57.888 --> 00:12:00.515
+We are already moving a
+little further with our animation.
+
+74
+00:12:00.515 --> 00:12:03.670
+Now we can move on to the next scene.
